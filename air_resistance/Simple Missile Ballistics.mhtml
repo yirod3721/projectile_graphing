@@ -1,0 +1,2544 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.mpoweruk.com/ballistics.htm
+Subject: Simple Missile Ballistics
+Date: Wed, 25 Oct 2023 18:05:02 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----"
+
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-61A684D39BCA49091C3B2BAE40482B64@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.mpoweruk.com/ballistics.htm
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- I=
+nstanceBegin template=3D"/Templates/navigation.dwt" codeOutsideHTMLIsLocked=
+=3D"false" --><head><meta http-equiv=3D"Content-Type" content=3D"text/html;=
+ charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:cs=
+s-6000233a-0e5a-4620-b885-fe288be49cf9@mhtml.blink" />
+<!-- Google tag (gtag.js) -->
+
+
+<!-- InstanceBeginEditable name=3D"doctitle" -->
+<title>Simple Missile Ballistics</title>
+<meta name=3D"Description" content=3D"Missile Ballistics and Flight Theory"=
+>
+<meta name=3D"Keywords" content=3D"balistic missiles, spacecraft, guided mi=
+ssiles, artillery shells, projectiles, drag, lift, lift over drag ratio, in=
+duced drag, parasitic drag, profile drag, aerodynamic efficiency, gravity, =
+range, altitude, trajectories, atmospheric pressure, stratosphere, stratopa=
+use, troposhere, mesosphere, Karman line, aerodynamics, rockets, space trav=
+el, orbits, orbital velocity, escape velocity ">
+<!-- InstanceEndEditable -->
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.mpoweruk.com=
+/basestyle.css">
+
+
+
+
+<!-- InstanceBeginEditable name=3D"head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body leftmargin=3D"0" topmargin=3D"20">
+<a name=3D"top"></a>
+<!-- The Electropaedia -->
+<table width=3D"104%" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">
+  <tbody><tr>
+    <td align=3D"center"><table width=3D"98%" cellspacing=3D"0" cellpadding=
+=3D"0">
+      </table></td></tr>
+  <tr>
+    <td valign=3D"top"><table width=3D"97%" cellspacing=3D"0" cellpadding=
+=3D"0"></table></td>
+        </tr><tr>
+          <td colspan=3D"4" valign=3D"top"><table width=3D"100%" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">
+              <tbody><tr>
+                <td width=3D"229" class=3D"topborder"><div align=3D"center"=
+><a href=3D"https://www.mpoweruk.com/index.htm"><img src=3D"https://www.mpo=
+weruk.com/images/electropaedia_logo2.gif" alt=3D"Electropaedia logo" width=
+=3D"195" height=3D"31" border=3D"0"></a></div></td>
+                <td align=3D"center" class=3D"paneltop"><h1>Battery and Ene=
+rgy Technologies</h1></td>
+                <td width=3D"49" valign=3D"top" class=3D"paneltopright"><im=
+g src=3D"https://www.mpoweruk.com/images/logo_space.gif" alt=3D"Panel Top">=
+</td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr><td width=3D"32" bgcolor=3D"#FFFFFF" class=3D"panelleft">&nbsp;=
+</td>
+          <td colspan=3D"2" valign=3D"top" class=3D"backgroundcolor"><p>&nb=
+sp;</p><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+              <tbody><tr>
+                <td colspan=3D"2">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><=
+tbody><tr><td><a href=3D"https://www.mpoweruk.com/search.htm"><img src=3D"h=
+ttps://www.mpoweruk.com/greycrescent4_b1.gif" border=3D"0" height=3D"21" wi=
+dth=3D"142" alt=3D"Help Lines"></a></td><td><a href=3D"https://www.mpoweruk=
+.com/electrical_energy.htm"><img src=3D"https://www.mpoweruk.com/greycresce=
+nt4_b2.gif" border=3D"0" height=3D"21" width=3D"142" alt=3D"Energy Sources"=
+></a></td><td><a href=3D"https://www.mpoweruk.com/chemistries.htm"><img src=
+=3D"https://www.mpoweruk.com/greycrescent4_b3.gif" border=3D"0" height=3D"2=
+1" width=3D"142" alt=3D"Energy Storage"></a></td><td><a href=3D"https://www=
+.mpoweruk.com/applications.htm"><img src=3D"https://www.mpoweruk.com/greycr=
+escent4_b4.gif" border=3D"0" height=3D"21" width=3D"142" alt=3D"Application=
+s"></a></td><td><a href=3D"https://www.mpoweruk.com/timeline.htm"><img src=
+=3D"https://www.mpoweruk.com/greycrescent4_b5.gif" border=3D"0" height=3D"2=
+1" width=3D"142" alt=3D"History"></a></td><td><a href=3D"https://www.mpower=
+uk.com/search.htm"><img src=3D"https://www.mpoweruk.com/greycrescent4_b6.gi=
+f" border=3D"0" height=3D"21" width=3D"142" alt=3D"Search"></a></td><td><a =
+href=3D"https://www.mpoweruk.com/about.htm"><img src=3D"https://www.mpoweru=
+k.com/greycrescent4_b7.gif" border=3D"0" height=3D"21" width=3D"142" alt=3D=
+"About Us"></a></td><td><a href=3D"https://www.mpoweruk.com/contacts.htm"><=
+img src=3D"https://www.mpoweruk.com/greycrescent4_b8.gif" border=3D"0" heig=
+ht=3D"21" width=3D"142" alt=3D"Contacts"></a></td></tr></tbody></table><div=
+ id=3D"greycrescent4_b8" class=3D"greycrescent4_menu" style=3D"z-index:1002=
+;width:154px"><a href=3D"https://www.mpoweruk.com/contacts.htm" class=3D"gr=
+eycrescent4_plain" style=3D"width:154px">&nbsp;Contacts&nbsp;</a><a href=3D=
+"https://www.mpoweruk.com/feedback.htm" class=3D"greycrescent4_plain" style=
+=3D"width:154px">&nbsp;Feedback  /  Comments&nbsp;</a><a href=3D"https://ww=
+w.mpoweruk.com/contactus.htm" class=3D"greycrescent4_plain" style=3D"width:=
+154px">&nbsp;Contact Us&nbsp;</a><a href=3D"https://www.mpoweruk.com/privac=
+y.htm" class=3D"greycrescent4_plain" style=3D"width:154px">&nbsp;Privacy Pr=
+omise&nbsp;</a><a href=3D"https://www.mpoweruk.com/index.htm" class=3D"grey=
+crescent4_plain" style=3D"width:154px">&nbsp;Home Page&nbsp;</a></div><div =
+id=3D"greycrescent4_b7" class=3D"greycrescent4_menu" style=3D"z-index:1002;=
+width:142px"><a href=3D"https://www.mpoweruk.com/about.htm" class=3D"greycr=
+escent4_plain" style=3D"width:142px">&nbsp;About Us&nbsp;</a><a href=3D"htt=
+ps://www.mpoweruk.com/sponsors.htm" class=3D"greycrescent4_plain" style=3D"=
+width:142px">&nbsp;About Sponsors&nbsp;</a><a href=3D"https://www.mpoweruk.=
+com/index.htm" class=3D"greycrescent4_plain" style=3D"width:142px">&nbsp;Ho=
+me Page&nbsp;</a></div><div id=3D"greycrescent4_b6" class=3D"greycrescent4_=
+menu" style=3D"z-index: 1002; width: 182px; left: 713px; top: 95px; clip: r=
+ect(0px, 182px, 120px, 0px); visibility: hidden;"><a href=3D"https://www.mp=
+oweruk.com/search.htm" class=3D"greycrescent4_plain" style=3D"width:182px">=
+&nbsp;Electropaedia Search Engine&nbsp;</a><a href=3D"https://www.mpoweruk.=
+com/sitemap.htm" class=3D"greycrescent4_plain" style=3D"width:182px">&nbsp;=
+Site Map&nbsp;</a><a href=3D"https://www.mpoweruk.com/glossary.htm" class=
+=3D"greycrescent4_plain" style=3D"width:182px">&nbsp;Battery Glossary&nbsp;=
+</a><a href=3D"https://www.mpoweruk.com/conversion_table.htm" class=3D"grey=
+crescent4_plain" style=3D"width:182px">&nbsp;Conversion Table&nbsp;</a><a h=
+ref=3D"https://www.mpoweruk.com/faq.htm" class=3D"greycrescent4_plain" styl=
+e=3D"width:182px">&nbsp;Frequently Asked Questions&nbsp;</a><a href=3D"http=
+s://www.mpoweruk.com/index.htm" class=3D"greycrescent4_plain" style=3D"widt=
+h:182px">&nbsp;Home Page&nbsp;</a></div><div id=3D"greycrescent4_b5_2" clas=
+s=3D"greycrescent4_menu" style=3D"z-index:1003;width:157px"><a href=3D"http=
+s://www.mpoweruk.com/themes.htm" class=3D"greycrescent4_plain" style=3D"wid=
+th:157px">&nbsp;Themes and Characters&nbsp;</a><a href=3D"https://www.mpowe=
+ruk.com/theory.htm" class=3D"greycrescent4_plain" style=3D"width:157px">&nb=
+sp;Theory and Explanations&nbsp;</a><a href=3D"https://www.mpoweruk.com/dia=
+grams.htm" class=3D"greycrescent4_plain" style=3D"width:157px">&nbsp;Images=
+ and Diagrams&nbsp;</a><a href=3D"https://www.mpoweruk.com/Brian_Austin.htm=
+" class=3D"greycrescent4_plain" style=3D"width:157px">&nbsp;Wireless Wonder=
+s&nbsp;</a></div><div id=3D"greycrescent4_b5" class=3D"greycrescent4_menu" =
+style=3D"z-index:1002;width:230px"><a href=3D"https://www.mpoweruk.com/hist=
+ory.htm" class=3D"greycrescent4_l" style=3D"width:230px">&nbsp;History of T=
+echnology (Details)&nbsp;</a><a href=3D"https://www.mpoweruk.com/timeline.h=
+tm" class=3D"greycrescent4_plain" style=3D"width:230px">&nbsp;Timeline of T=
+echnology &nbsp;</a><a href=3D"https://www.mpoweruk.com/elements.htm" class=
+=3D"greycrescent4_plain" style=3D"width:230px">&nbsp;Discovery of the Eleme=
+nts&nbsp;</a><a href=3D"https://www.mpoweruk.com/particle_timeline.htm" cla=
+ss=3D"greycrescent4_plain" style=3D"width:230px">&nbsp;Particle Physics &am=
+p; Quantum Timeline&nbsp;</a><a href=3D"https://www.mpoweruk.com/standard_m=
+odel.htm" class=3D"greycrescent4_plain" style=3D"width:230px">&nbsp;Particl=
+e Physics - Standard Model&nbsp;</a><a href=3D"https://www.mpoweruk.com/fam=
+e.htm" class=3D"greycrescent4_plain" style=3D"width:230px">&nbsp;Hall of Fa=
+me&nbsp;</a><a href=3D"https://www.mpoweruk.com/Sticky_Ends.htm" class=3D"g=
+reycrescent4_plain" style=3D"width:230px">&nbsp;Unexpected Outcomes &amp; S=
+ticky Endings&nbsp;</a></div><div id=3D"greycrescent4_b4_8" class=3D"greycr=
+escent4_menu" style=3D"z-index:1003;width:240px"><a href=3D"https://www.mpo=
+weruk.com/gyros.htm" class=3D"greycrescent4_plain" style=3D"width:240px">&n=
+bsp;Gyroscopes and Navigation&nbsp;</a><a href=3D"https://www.mpoweruk.com/=
+ballistics.htm" class=3D"greycrescent4_plain" style=3D"width:240px">&nbsp;B=
+allistics and Aerodynamics&nbsp;</a><a href=3D"https://www.mpoweruk.com/fli=
+ght_theory.htm" class=3D"greycrescent4_plain" style=3D"width:240px">&nbsp;A=
+erodynamics and the Theory of Flight&nbsp;</a><a href=3D"https://www.mpower=
+uk.com/V2-Rocket.htm" class=3D"greycrescent4_plain" style=3D"width:240px">&=
+nbsp;The V2 Rocket (Ballistic Missile)&nbsp;</a><a href=3D"https://www.mpow=
+eruk.com/V1-Missile.htm" class=3D"greycrescent4_plain" style=3D"width:240px=
+">&nbsp;The V1 Missile (Cruise Missile)&nbsp;</a></div><div id=3D"greycresc=
+ent4_b4_6" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:169px">=
+<a href=3D"https://www.mpoweruk.com/satellite_communications.htm" class=3D"=
+greycrescent4_plain" style=3D"width:169px">&nbsp;Communications Satellites&=
+nbsp;</a></div><div id=3D"greycrescent4_b4_3" class=3D"greycrescent4_menu" =
+style=3D"z-index:1003;width:138px"><a href=3D"https://www.mpoweruk.com/stea=
+m_turbines.htm" class=3D"greycrescent4_plain" style=3D"width:138px">&nbsp;S=
+team Turbines&nbsp;</a><a href=3D"https://www.mpoweruk.com/gas_turbines.htm=
+" class=3D"greycrescent4_plain" style=3D"width:138px">&nbsp;Gas Turbine Pow=
+er&nbsp;</a><a href=3D"https://www.mpoweruk.com/piston_engines.htm" class=
+=3D"greycrescent4_plain" style=3D"width:138px">&nbsp;Piston Engine Power&nb=
+sp;</a><a href=3D"https://www.mpoweruk.com/stirling_engine.htm" class=3D"gr=
+eycrescent4_plain" style=3D"width:138px">&nbsp;Stirling Engine Power&nbsp;<=
+/a><a href=3D"https://www.mpoweruk.com/rockets.htm" class=3D"greycrescent4_=
+plain" style=3D"width:138px">&nbsp;Rockets&nbsp;</a></div><div id=3D"greycr=
+escent4_b4_1" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:220p=
+x"><a href=3D"https://www.mpoweruk.com/motorsac.htm" class=3D"greycrescent4=
+_plain" style=3D"width:220px">&nbsp;AC Motors&nbsp;</a><a href=3D"https://w=
+ww.mpoweruk.com/motorsdc.htm" class=3D"greycrescent4_plain" style=3D"width:=
+220px">&nbsp;DC Motors&nbsp;</a><a href=3D"https://www.mpoweruk.com/motorsb=
+rushless.htm" class=3D"greycrescent4_plain" style=3D"width:220px">&nbsp;Bru=
+shless DC &amp; Reluctance Motors&nbsp;</a><a href=3D"https://www.mpoweruk.=
+com/motorsspecial.htm" class=3D"greycrescent4_plain" style=3D"width:220px">=
+&nbsp;Special Purpose Motors&nbsp;</a><a href=3D"https://www.mpoweruk.com/m=
+otorcontrols.htm" class=3D"greycrescent4_plain" style=3D"width:220px">&nbsp=
+;Motor Controls&nbsp;</a><a href=3D"https://www.mpoweruk.com/generators.htm=
+" class=3D"greycrescent4_plain" style=3D"width:220px">&nbsp;Generators&nbsp=
+;</a></div><div id=3D"greycrescent4_b4" class=3D"greycrescent4_menu" style=
+=3D"z-index: 1002; width: 232px; left: 429px; top: 102px; clip: rect(0px, 2=
+32px, 260px, 0px); visibility: hidden;"><a href=3D"https://www.mpoweruk.com=
+/machines.htm" class=3D"greycrescent4_l" style=3D"width:232px">&nbsp;Electr=
+ic Machines (Fundamentals)&nbsp;</a><a href=3D"https://www.mpoweruk.com/hea=
+t_engines.htm" class=3D"greycrescent4_l" style=3D"width:232px">&nbsp;Heat E=
+ngines&nbsp;</a><a href=3D"https://www.mpoweruk.com/semiconductors.htm" cla=
+ss=3D"greycrescent4_plain" style=3D"width:232px">&nbsp;Semiconductor Primer=
+&nbsp;</a><a href=3D"https://www.mpoweruk.com/graphene.htm" class=3D"greycr=
+escent4_plain" style=3D"width:232px">&nbsp;Graphene&nbsp;</a><a href=3D"htt=
+ps://www.mpoweruk.com/digital_logic.htm" class=3D"greycrescent4_plain" styl=
+e=3D"width:232px">&nbsp;Boolean Logic and Digital Circuits&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/enigma.htm" class=3D"greycrescent4_plain" styl=
+e=3D"width:232px">&nbsp;Enigma's Cryptic Secrets&nbsp;</a><a href=3D"https:=
+//www.mpoweruk.com/computer_architecture.htm" class=3D"greycrescent4_plain"=
+ style=3D"width:232px">&nbsp;Computer Architecture&nbsp;</a><a href=3D"http=
+s://www.mpoweruk.com/radio.htm" class=3D"greycrescent4_plain" style=3D"widt=
+h:232px">&nbsp;Electromagnetic Radiation&nbsp;</a><a href=3D"https://www.mp=
+oweruk.com/rockets.htm" class=3D"greycrescent4_l" style=3D"width:232px">&nb=
+sp;Rocket Science&nbsp;</a><a href=3D"https://www.mpoweruk.com/Apollo_Moon_=
+Shot.htm" class=3D"greycrescent4_plain" style=3D"width:232px">&nbsp;Apollo =
+Moon Shot&nbsp;</a><a href=3D"https://www.mpoweruk.com/satellites.htm" clas=
+s=3D"greycrescent4_l" style=3D"width:232px">&nbsp;Satellite Technologies&nb=
+sp;</a><a href=3D"https://www.mpoweruk.com/timekeepers.htm" class=3D"greycr=
+escent4_plain" style=3D"width:232px">&nbsp;Horology - It's About Time&nbsp;=
+</a><a href=3D"https://www.mpoweruk.com/harmony.htm" class=3D"greycrescent4=
+_plain" style=3D"width:232px">&nbsp;Engineering Harmony&nbsp;</a></div><div=
+ id=3D"greycrescent4_b3_15" class=3D"greycrescent4_menu" style=3D"z-index:1=
+003;width:212px"><a href=3D"https://www.mpoweruk.com/infrastructure.htm" cl=
+ass=3D"greycrescent4_plain" style=3D"width:212px">&nbsp;EV Battery Charging=
+ Infrastructure&nbsp;</a></div><div id=3D"greycrescent4_b3_13" class=3D"gre=
+ycrescent4_menu" style=3D"z-index:1003;width:165px"><a href=3D"https://www.=
+mpoweruk.com/benefits.htm" class=3D"greycrescent4_plain" style=3D"width:165=
+px">&nbsp;Benefits of Custom Packs&nbsp;</a></div><div id=3D"greycrescent4_=
+b3_7" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:174px"><a hr=
+ef=3D"https://www.mpoweruk.com/protection.htm" class=3D"greycrescent4_plain=
+" style=3D"width:174px">&nbsp;Battery Protection Methods&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/shock.htm" class=3D"greycrescent4_plain" style=
+=3D"width:174px">&nbsp;Shocking Batteries&nbsp;</a><a href=3D"https://www.m=
+poweruk.com/instructions.htm" class=3D"greycrescent4_plain" style=3D"width:=
+174px">&nbsp;User Safety Instructions&nbsp;</a><a href=3D"https://www.mpowe=
+ruk.com/shipping_regs.htm" class=3D"greycrescent4_plain" style=3D"width:174=
+px">&nbsp;Shipping Regulations&nbsp;</a><a href=3D"https://www.mpoweruk.com=
+/specifications/msds_lithium.pdf" class=3D"greycrescent4_plain" style=3D"wi=
+dth:174px">&nbsp;Material Safety Data Sheet &nbsp;</a><a href=3D"https://ww=
+w.mpoweruk.com/recycling.htm" class=3D"greycrescent4_plain" style=3D"width:=
+174px">&nbsp;Battery Recycling&nbsp;</a></div><div id=3D"greycrescent4_b3_6=
+" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:198px"><a href=
+=3D"https://www.mpoweruk.com/thermal.htm" class=3D"greycrescent4_plain" sty=
+le=3D"width:198px">&nbsp;Thermal Management&nbsp;</a><a href=3D"https://www=
+.mpoweruk.com/soc.htm" class=3D"greycrescent4_plain" style=3D"width:198px">=
+&nbsp;State of Charge (SOC)&nbsp;</a><a href=3D"https://www.mpoweruk.com/so=
+h.htm" class=3D"greycrescent4_plain" style=3D"width:198px">&nbsp;State of H=
+ealth (SOH)&nbsp;</a><a href=3D"https://www.mpoweruk.com/balancing.htm" cla=
+ss=3D"greycrescent4_plain" style=3D"width:198px">&nbsp;Cell Balancing&nbsp;=
+</a><a href=3D"https://www.mpoweruk.com/authentication.htm" class=3D"greycr=
+escent4_plain" style=3D"width:198px">&nbsp;Authentication and Identificatio=
+n&nbsp;</a><a href=3D"https://www.mpoweruk.com/communications.htm" class=3D=
+"greycrescent4_plain" style=3D"width:198px">&nbsp;System Communications&nbs=
+p;</a><a href=3D"https://www.mpoweruk.com/demand.htm" class=3D"greycrescent=
+4_plain" style=3D"width:198px">&nbsp;Demand Management&nbsp;</a></div><div =
+id=3D"greycrescent4_b3_5" class=3D"greycrescent4_menu" style=3D"z-index:100=
+3;width:132px"><a href=3D"https://www.mpoweruk.com/lithium_failures.htm" cl=
+ass=3D"greycrescent4_plain" style=3D"width:132px">&nbsp;Lithium Cell Failur=
+es&nbsp;</a></div><div id=3D"greycrescent4_b3_4" class=3D"greycrescent4_men=
+u" style=3D"z-index:1003;width:186px"><a href=3D"https://www.mpoweruk.com/r=
+eliability.htm" class=3D"greycrescent4_plain" style=3D"width:186px">&nbsp;B=
+attery Reliability &amp; Warranty&nbsp;</a></div><div id=3D"greycrescent4_b=
+3_2_11" class=3D"greycrescent4_menu" style=3D"z-index:1004;width:87px"><a h=
+ref=3D"https://www.mpoweruk.com/gratzel.htm" class=3D"greycrescent4_plain" =
+style=3D"width:87px">&nbsp;Graetzel cell&nbsp;</a></div><div id=3D"greycres=
+cent4_b3_2_10" class=3D"greycrescent4_menu" style=3D"z-index:1004;width:173=
+px"><a href=3D"https://www.mpoweruk.com/fc_comparison.htm" class=3D"greycre=
+scent4_plain" style=3D"width:173px">&nbsp;Fuel Cell Comparison Chart&nbsp;<=
+/a></div><div id=3D"greycrescent4_b3_2_9" class=3D"greycrescent4_menu" styl=
+e=3D"z-index:1004;width:107px"><a href=3D"https://www.mpoweruk.com/redox.ht=
+m" class=3D"greycrescent4_plain" style=3D"width:107px">&nbsp;Redox Batterie=
+s&nbsp;</a></div><div id=3D"greycrescent4_b3_2_8" class=3D"greycrescent4_me=
+nu" style=3D"z-index:1004;width:162px"><a href=3D"https://www.mpoweruk.com/=
+water.htm" class=3D"greycrescent4_plain" style=3D"width:162px">&nbsp;Water =
+Activated Batteries&nbsp;</a><a href=3D"https://www.mpoweruk.com/thermalbat=
+s.htm" class=3D"greycrescent4_plain" style=3D"width:162px">&nbsp;Thermal Ba=
+tteries&nbsp;</a></div><div id=3D"greycrescent4_b3_2_6" class=3D"greycresce=
+nt4_menu" style=3D"z-index:1004;width:116px"><a href=3D"https://www.mpoweru=
+k.com/thermalbats.htm" class=3D"greycrescent4_plain" style=3D"width:116px">=
+&nbsp;Thermal Batteries&nbsp;</a></div><div id=3D"greycrescent4_b3_2" class=
+=3D"greycrescent4_menu" style=3D"z-index:1003;width:207px"><a href=3D"https=
+://www.mpoweruk.com/primary.htm" class=3D"greycrescent4_plain" style=3D"wid=
+th:207px">&nbsp;Primary Cells&nbsp;</a><a href=3D"https://www.mpoweruk.com/=
+secondary.htm" class=3D"greycrescent4_plain" style=3D"width:207px">&nbsp;Se=
+condary Cells&nbsp;</a><a href=3D"https://www.mpoweruk.com/high_power.htm" =
+class=3D"greycrescent4_plain" style=3D"width:207px">&nbsp;High Power Batter=
+ies&nbsp;</a><a href=3D"https://www.mpoweruk.com/traction.htm" class=3D"gre=
+ycrescent4_plain" style=3D"width:207px">&nbsp;Traction Batteries&nbsp;</a><=
+a href=3D"https://www.mpoweruk.com/low_power.htm" class=3D"greycrescent4_pl=
+ain" style=3D"width:207px">&nbsp;Low Power Batteries&nbsp;</a><a href=3D"ht=
+tps://www.mpoweruk.com/high_temp.htm" class=3D"greycrescent4_l" style=3D"wi=
+dth:207px">&nbsp;High Temperature Batteries&nbsp;</a><a href=3D"https://www=
+.mpoweruk.com/liquid_batteries.htm" class=3D"greycrescent4_plain" style=3D"=
+width:207px">&nbsp;Liquid Metal Batteries&nbsp;</a><a href=3D"https://www.m=
+poweruk.com/reserve.htm" class=3D"greycrescent4_l" style=3D"width:207px">&n=
+bsp;Reserve Batteries&nbsp;</a><a href=3D"https://www.mpoweruk.com/flow.htm=
+" class=3D"greycrescent4_l" style=3D"width:207px">&nbsp;Flow Batteries&nbsp=
+;</a><a href=3D"https://www.mpoweruk.com/fuel_cells.htm" class=3D"greycresc=
+ent4_l" style=3D"width:207px">&nbsp;Fuel Cells&nbsp;</a><a href=3D"https://=
+www.mpoweruk.com/solar.htm" class=3D"greycrescent4_l" style=3D"width:207px"=
+>&nbsp;Solar Cells&nbsp;</a><a href=3D"https://www.mpoweruk.com/supercaps.h=
+tm" class=3D"greycrescent4_plain" style=3D"width:207px">&nbsp;Capacitors &a=
+mp; Supercapacitors&nbsp;</a><a href=3D"https://www.mpoweruk.com/ac_batteri=
+es.htm" class=3D"greycrescent4_plain" style=3D"width:207px">&nbsp;AC Batter=
+ies&nbsp;</a><a href=3D"https://www.mpoweruk.com/alternatives.htm" class=3D=
+"greycrescent4_plain" style=3D"width:207px">&nbsp;Alternative Energy Storag=
+e&nbsp;</a><a href=3D"https://www.mpoweruk.com/homebrew.htm" class=3D"greyc=
+rescent4_plain" style=3D"width:207px">&nbsp;Homebrew Battery&nbsp;</a></div=
+><div id=3D"greycrescent4_b3_1" class=3D"greycrescent4_menu" style=3D"z-ind=
+ex:1003;width:164px"><a href=3D"https://www.mpoweruk.com/alkaline.htm" clas=
+s=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Alkaline Cells&nbsp;<=
+/a><a href=3D"https://www.mpoweruk.com/leadacid.htm" class=3D"greycrescent4=
+_plain" style=3D"width:164px">&nbsp;Lead Acid Batteries&nbsp;</a><a href=3D=
+"https://www.mpoweruk.com/leclanche.htm" class=3D"greycrescent4_plain" styl=
+e=3D"width:164px">&nbsp;Leclanche Cells&nbsp;</a><a href=3D"https://www.mpo=
+weruk.com/nicad.htm" class=3D"greycrescent4_plain" style=3D"width:164px">&n=
+bsp;Nickel Cadmium&nbsp;</a><a href=3D"https://www.mpoweruk.com/nickel_hydr=
+ogen.htm" class=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Nickel =
+Hydrogen&nbsp;</a><a href=3D"https://www.mpoweruk.com/nickel_iron.htm" clas=
+s=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Nickel Iron (NiFe)&nb=
+sp;</a><a href=3D"https://www.mpoweruk.com/nimh.htm" class=3D"greycrescent4=
+_plain" style=3D"width:164px">&nbsp;Nickel Metal Hydride&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/nickel_zinc.htm" class=3D"greycrescent4_plain"=
+ style=3D"width:164px">&nbsp;Nickel Zinc&nbsp;</a><a href=3D"https://www.mp=
+oweruk.com/lithiumP.htm" class=3D"greycrescent4_plain" style=3D"width:164px=
+">&nbsp;Lithium (Primary)&nbsp;</a><a href=3D"https://www.mpoweruk.com/lith=
+iumS.htm" class=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Lithium=
+ (Secondary)&nbsp;</a><a href=3D"https://www.mpoweruk.com/redox.htm" class=
+=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Redox Batteries&nbsp;<=
+/a><a href=3D"https://www.mpoweruk.com/silver_oxide.htm" class=3D"greycresc=
+ent4_plain" style=3D"width:164px">&nbsp;Silver Oxide&nbsp;</a><a href=3D"ht=
+tps://www.mpoweruk.com/zebra.htm" class=3D"greycrescent4_plain" style=3D"wi=
+dth:164px">&nbsp;Zebra Batteries&nbsp;</a><a href=3D"https://www.mpoweruk.c=
+om/zinc_air.htm" class=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;=
+Zinc Air&nbsp;</a><a href=3D"https://www.mpoweruk.com/othercells.htm" class=
+=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Other Chemistries&nbsp=
+;</a><a href=3D"https://www.mpoweruk.com/specifications/comparisons.pdf" cl=
+ass=3D"greycrescent4_plain" style=3D"width:164px">&nbsp;Battery Comparison =
+Chart&nbsp;</a></div><div id=3D"greycrescent4_b3" class=3D"greycrescent4_me=
+nu" style=3D"z-index:1002;width:222px"><a href=3D"https://www.mpoweruk.com/=
+chemistries.htm" class=3D"greycrescent4_l" style=3D"width:222px">&nbsp;Cell=
+ Chemistry&nbsp;</a><a href=3D"https://www.mpoweruk.com/battery_types.htm" =
+class=3D"greycrescent4_l" style=3D"width:222px">&nbsp;Battery Types&nbsp;</=
+a><a href=3D"https://www.mpoweruk.com/performance.htm" class=3D"greycrescen=
+t4_plain" style=3D"width:222px">&nbsp;Performance Characteristics&nbsp;</a>=
+<a href=3D"https://www.mpoweruk.com/life.htm" class=3D"greycrescent4_l" sty=
+le=3D"width:222px">&nbsp;Battery Life (and Death)&nbsp;</a><a href=3D"https=
+://www.mpoweruk.com/failure_modes.htm" class=3D"greycrescent4_l" style=3D"w=
+idth:222px">&nbsp;Why Batteries Fail&nbsp;</a><a href=3D"https://www.mpower=
+uk.com/bms.htm" class=3D"greycrescent4_l" style=3D"width:222px">&nbsp;Batte=
+ry Management Systems&nbsp;</a><a href=3D"https://www.mpoweruk.com/safety.h=
+tm" class=3D"greycrescent4_l" style=3D"width:222px">&nbsp;Battery Safety&nb=
+sp;</a><a href=3D"https://www.mpoweruk.com/testing.htm" class=3D"greycresce=
+nt4_plain" style=3D"width:222px">&nbsp;Battery Testing&nbsp;</a><a href=3D"=
+https://www.mpoweruk.com/storage.htm" class=3D"greycrescent4_plain" style=
+=3D"width:222px">&nbsp;Battery Storage&nbsp;</a><a href=3D"https://www.mpow=
+eruk.com/cell_construction.htm" class=3D"greycrescent4_plain" style=3D"widt=
+h:222px">&nbsp;Cell Construction&nbsp;</a><a href=3D"https://www.mpoweruk.c=
+om/cell_design.htm" class=3D"greycrescent4_plain" style=3D"width:222px">&nb=
+sp;New Cell Designs &amp; Chemistries&nbsp;</a><a href=3D"https://www.mpowe=
+ruk.com/battery_manufacturing.htm" class=3D"greycrescent4_plain" style=3D"w=
+idth:222px">&nbsp;Battery Manufacturing&nbsp;</a><a href=3D"https://www.mpo=
+weruk.com/pack_construction.htm" class=3D"greycrescent4_l" style=3D"width:2=
+22px">&nbsp;Battery Pack Design&nbsp;</a><a href=3D"https://www.mpoweruk.co=
+m/ups.htm" class=3D"greycrescent4_plain" style=3D"width:222px">&nbsp;Uninte=
+rruptible Power Supplies&nbsp;</a><a href=3D"https://www.mpoweruk.com/charg=
+ers.htm" class=3D"greycrescent4_l" style=3D"width:222px">&nbsp;Battery Char=
+gers&nbsp;</a><a href=3D"https://www.mpoweruk.com/grid_storage.htm" class=
+=3D"greycrescent4_plain" style=3D"width:222px">&nbsp;Grid Scale Energy Stor=
+age ESS&nbsp;</a><a href=3D"https://www.mpoweruk.com/applications.htm" clas=
+s=3D"greycrescent4_plain" style=3D"width:222px">&nbsp;Battery Applications&=
+nbsp;</a><a href=3D"https://www.mpoweruk.com/v2g.htm" class=3D"greycrescent=
+4_plain" style=3D"width:222px">&nbsp;V2G Energy Transfer&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/Software_Configurable_Battery.htm" class=3D"gr=
+eycrescent4_plain" style=3D"width:222px">&nbsp;Software Configurable Batter=
+y&nbsp;</a><a href=3D"https://www.mpoweruk.com/china_batteries.pdf" class=
+=3D"greycrescent4_plain" style=3D"width:222px">&nbsp;Buying Batteries in Ch=
+ina&nbsp;</a></div><div id=3D"greycrescent4_b2_6" class=3D"greycrescent4_me=
+nu" style=3D"z-index:1003;width:82px"><a href=3D"https://www.mpoweruk.com/g=
+oing_solar.htm" class=3D"greycrescent4_plain" style=3D"width:82px">&nbsp;Go=
+ing Solar&nbsp;</a></div><div id=3D"greycrescent4_b2_3" class=3D"greycresce=
+nt4_menu" style=3D"z-index:1003;width:174px"><a href=3D"https://www.mpoweru=
+k.com/nuclear_theory.htm" class=3D"greycrescent4_plain" style=3D"width:174p=
+x">&nbsp;Nuclear Power - The Theory&nbsp;</a></div><div id=3D"greycrescent4=
+_b2_2" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:121px"><a h=
+ref=3D"https://www.mpoweruk.com/coal.htm" class=3D"greycrescent4_plain" sty=
+le=3D"width:121px">&nbsp;Energy from Coal?&nbsp;</a></div><div id=3D"greycr=
+escent4_b2_1_4" class=3D"greycrescent4_menu" style=3D"z-index:1004;width:13=
+8px"><a href=3D"https://www.mpoweruk.com/steam_turbines.htm" class=3D"greyc=
+rescent4_plain" style=3D"width:138px">&nbsp;Steam Turbines&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/gas_turbines.htm" class=3D"greycrescent4_plain=
+" style=3D"width:138px">&nbsp;Gas Turbine Power&nbsp;</a><a href=3D"https:/=
+/www.mpoweruk.com/piston_engines.htm" class=3D"greycrescent4_plain" style=
+=3D"width:138px">&nbsp;Piston Engine Power&nbsp;</a><a href=3D"https://www.=
+mpoweruk.com/stirling_engine.htm" class=3D"greycrescent4_plain" style=3D"wi=
+dth:138px">&nbsp;Stirling Engine Power&nbsp;</a></div><div id=3D"greycresce=
+nt4_b2_1" class=3D"greycrescent4_menu" style=3D"z-index:1003;width:144px"><=
+a href=3D"https://www.mpoweruk.com/energy_resources.htm" class=3D"greycresc=
+ent4_plain" style=3D"width:144px">&nbsp;Energy Resources&nbsp;</a><a href=
+=3D"https://www.mpoweruk.com/electricity_demand.htm" class=3D"greycrescent4=
+_plain" style=3D"width:144px">&nbsp;Electricity Demand&nbsp;</a><a href=3D"=
+https://www.mpoweruk.com/energy_efficiency.htm" class=3D"greycrescent4_plai=
+n" style=3D"width:144px">&nbsp;Energy Efficiency&nbsp;</a><a href=3D"https:=
+//www.mpoweruk.com/heat_engines.htm" class=3D"greycrescent4_l" style=3D"wid=
+th:144px">&nbsp;Energy Conversion&nbsp;</a></div><div id=3D"greycrescent4_b=
+2" class=3D"greycrescent4_menu" style=3D"z-index:1002;width:243px"><a href=
+=3D"https://www.mpoweruk.com/electrical_energy.htm" class=3D"greycrescent4_=
+l" style=3D"width:243px">&nbsp;Electrical Energy &nbsp;</a><a href=3D"https=
+://www.mpoweruk.com/fossil_fuels.htm" class=3D"greycrescent4_l" style=3D"wi=
+dth:243px">&nbsp;Fossil Fuelled Power Plants&nbsp;</a><a href=3D"https://ww=
+w.mpoweruk.com/nuclear_practice.htm" class=3D"greycrescent4_l" style=3D"wid=
+th:243px">&nbsp;Nuclear Power - The Practice&nbsp;</a><a href=3D"https://ww=
+w.mpoweruk.com/hydro_power.htm" class=3D"greycrescent4_plain" style=3D"widt=
+h:243px">&nbsp;Hydro Power&nbsp;</a><a href=3D"https://www.mpoweruk.com/win=
+d_power.htm" class=3D"greycrescent4_plain" style=3D"width:243px">&nbsp;Wind=
+ Power&nbsp;</a><a href=3D"https://www.mpoweruk.com/solar_power.htm" class=
+=3D"greycrescent4_l" style=3D"width:243px">&nbsp;Solar Power&nbsp;</a><a hr=
+ef=3D"https://www.mpoweruk.com/ss_electricity_generation.htm" class=3D"grey=
+crescent4_plain" style=3D"width:243px">&nbsp;Small Scale Power Generation&n=
+bsp;</a><a href=3D"https://www.mpoweruk.com/geothermal_energy.htm" class=3D=
+"greycrescent4_plain" style=3D"width:243px">&nbsp;Geothermal Energy&nbsp;</=
+a><a href=3D"https://www.mpoweruk.com/biofuels.htm" class=3D"greycrescent4_=
+plain" style=3D"width:243px">&nbsp;Biofuel Power&nbsp;</a><a href=3D"https:=
+//www.mpoweruk.com/hydrogen_fuel.htm" class=3D"greycrescent4_plain" style=
+=3D"width:243px">&nbsp;Hydrogen Fuel&nbsp;</a><a href=3D"https://www.mpower=
+uk.com/chemical_energy.htm" class=3D"greycrescent4_plain" style=3D"width:24=
+3px">&nbsp;Chemical Energy&nbsp;</a><a href=3D"https://www.mpoweruk.com/the=
+rmoelectricity.htm" class=3D"greycrescent4_plain" style=3D"width:243px">&nb=
+sp;Thermoelectric Generator (Seebeck)&nbsp;</a><a href=3D"https://www.mpowe=
+ruk.com/amtec.htm" class=3D"greycrescent4_plain" style=3D"width:243px">&nbs=
+p;Thermoelectric Generator (AMTEC)&nbsp;</a><a href=3D"https://www.mpoweruk=
+.com/mhd_generator.htm" class=3D"greycrescent4_plain" style=3D"width:243px"=
+>&nbsp;Magnetohydrodynamic Power (MHD)&nbsp;</a><a href=3D"https://www.mpow=
+eruk.com/hybrid_power.htm" class=3D"greycrescent4_plain" style=3D"width:243=
+px">&nbsp;Hybrid Power Plants&nbsp;</a><a href=3D"https://www.mpoweruk.com/=
+carbon_footprints.htm" class=3D"greycrescent4_plain" style=3D"width:243px">=
+&nbsp;Carbon Footprints&nbsp;</a></div><div id=3D"greycrescent4_b1" class=
+=3D"greycrescent4_menu" style=3D"z-index:1002;width:179px"><a href=3D"https=
+://www.mpoweruk.com/beginners.htm" class=3D"greycrescent4_plain" style=3D"w=
+idth:179px">&nbsp;Beginners Page&nbsp;</a><a href=3D"https://www.mpoweruk.c=
+om/faq.htm" class=3D"greycrescent4_plain" style=3D"width:179px">&nbsp;Frequ=
+ently Asked Questions&nbsp;</a><a href=3D"https://www.mpoweruk.com/how.htm"=
+ class=3D"greycrescent4_plain" style=3D"width:179px">&nbsp;How to Specify a=
+ Battery&nbsp;</a><a href=3D"https://www.mpoweruk.com/quotation.htm" class=
+=3D"greycrescent4_plain" style=3D"width:179px">&nbsp;Get a Battery Quotatio=
+n&nbsp;</a><a href=3D"https://www.mpoweruk.com/charger_spec.htm" class=3D"g=
+reycrescent4_plain" style=3D"width:179px">&nbsp;How to Specify a Charger&nb=
+sp;</a><a href=3D"https://www.mpoweruk.com/charger_quote.htm" class=3D"grey=
+crescent4_plain" style=3D"width:179px">&nbsp;Get a Charger Quotation&nbsp;<=
+/a><a href=3D"https://www.mpoweruk.com/library.htm" class=3D"greycrescent4_=
+plain" style=3D"width:179px">&nbsp;Technical Library&nbsp;</a><a href=3D"ht=
+tps://www.mpoweruk.com/references.htm" class=3D"greycrescent4_plain" style=
+=3D"width:179px">&nbsp;Reference Books&nbsp;</a><a href=3D"https://www.mpow=
+eruk.com/standards.htm" class=3D"greycrescent4_plain" style=3D"width:179px"=
+>&nbsp;Battery Standards&nbsp;</a><a href=3D"https://www.mpoweruk.com/legal=
+.htm" class=3D"greycrescent4_plain" style=3D"width:179px">&nbsp;Legal State=
+ment&nbsp;</a><a href=3D"https://www.mpoweruk.com/index.htm" class=3D"greyc=
+rescent4_plain" style=3D"width:179px">&nbsp;Home Page&nbsp;</a></div></td>
+              </tr>
+              <tr>
+                <td width=3D"17%" valign=3D"top" class=3D"leftcolpad"><tabl=
+e width=3D"162" cellpadding=3D"0" cellspacing=3D"0">
+                    <tbody><tr>
+                      <td width=3D"162" valign=3D"top"><img src=3D"https://=
+www.mpoweruk.com/images/spacer.gif" alt=3D"Spacer" width=3D"20" height=3D"1=
+0"></td>
+                    </tr>
+                    <tr>
+                      <td valign=3D"top"><img src=3D"https://www.mpoweruk.c=
+om/images/TopCap3.gif" width=3D"162" height=3D"10" alt=3D"End Cap"></td>
+                    </tr>
+                    <tr>
+                      <td class=3D"parahead2"><b>Finding your Way Around</b=
+></td>
+                    </tr>
+                    <tr>
+                      <td class=3D"lcolumnborder"><!-- insert left column t=
+ext here --></td>
+                    </tr>
+                    <tr><td class=3D"lcolumnborder"><p align=3D"center" cla=
+ss=3D"style4">Smart Phone / Tablet Users See</p><p align=3D"center"><a href=
+=3D"https://www.mpoweruk.com/ballistics.htm#alternative">Alternative Naviga=
+tion</a></p><p align=3D"center" class=3D"style4">Below</p></td></tr>
+                    <tr>
+                      <td valign=3D"top" class=3D"parahead2"><b>Sponsors</b=
+></td>
+                    </tr>
+                    <tr><td width=3D"160" valign=3D"top" class=3D"lcolumnbo=
+rder"><p align=3D"center"><a href=3D"https://www.cheevc.com/"><img src=3D"h=
+ttps://www.mpoweruk.com/images/CHEEVCsLogo.gif" width=3D"128" height=3D"38"=
+ border=3D"0" alt=3D"CHEEVC Logo"></a></p><p><a href=3D"https://www.cheevc.=
+com/">Battery Performance Improvement by Electronic Means</a></p></td></tr>
+                    <tr>
+                      <td class=3D"lcolumnborder"><b>
+                       =20
+                       =20
+                        </b></td>
+                    </tr>
+                    <tr>
+                      <td width=3D"160" valign=3D"top" class=3D"lcolumnbord=
+er"><b>
+                       =20
+                       =20
+                        </b></td>
+                    </tr>
+                    <!-- InstanceBeginEditable name=3D"adstuff" -->
+                    <!-- insert add text here -->
+                    <!-- InstanceEndEditable -->
+                    <!-- end adstuff here -->
+                    <tr>
+                      <td height=3D"24" valign=3D"top" class=3D"parahead2">=
+<b>Free Report</b></td>
+                    </tr>
+                    <tr>
+                      <td class=3D"lcolumnborder"><p><a href=3D"https://www=
+.mpoweruk.com/freebie_request.htm">Buying Batteries in China</a></p></td>
+                    </tr>
+                    <tr>
+                      <td valign=3D"top" class=3D"parahead2">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><img src=3D"https://www.mpoweruk.com/images/Botto=
+mCap3.gif" width=3D"162" height=3D"10" alt=3D"End cap"></td>
+                    </tr>
+                    <tr>
+                      <td><p><img src=3D"https://www.mpoweruk.com/images/sp=
+acer.gif" alt=3D"Spacer" width=3D"20" height=3D"10"></p></td>
+                    </tr>
+                    <tr><td><table border=3D"1" cellspacing=3D"0" bordercol=
+or=3D"#009900" cellpadding=3D"0"><tbody><tr><td><h2 align=3D"center"><a nam=
+e=3D"alternative"></a>Electropaedia Pages</h2></td></tr><tr><td><p align=3D=
+"center"><b>Alphabetical Index</b></p></td></tr><tr><td><p><a href=3D"https=
+://www.mpoweruk.com/about.htm">About Us</a></p></td></tr><tr><td><p><a href=
+=3D"https://www.mpoweruk.com/ac_batteries.htm">AC Batteries</a></p></td></t=
+r><tr><td><p><a href=3D"https://www.mpoweruk.com/motorsac.htm">AC Motors</a=
+></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/alkaline.htm"=
+>Alkaline Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/alternatives.htm">Alternative Energy Storage Methods</a></p></td><=
+/tr><tr><td><p><a href=3D"https://www.mpoweruk.com/Apollo_Moon_Shot.htm">Ap=
+ollo Moon Shot</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.=
+com/authentication.htm">Authentication and Identification</a></p></td></tr>=
+<tr><td><p><a href=3D"https://www.mpoweruk.com/applications.htm">Battery Ap=
+plications</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/=
+specifications/comparisons.pdf">Battery Comparison Chart</a> (PDF)</p></td>=
+</tr><tr><td><p><a href=3D"https://www.mpoweruk.com/life.htm">Battery Life =
+(and Death)</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com=
+/bms.htm">Battery Management Systems (BMS)</a></p></td></tr><tr><td><p><a h=
+ref=3D"https://www.mpoweruk.com/battery_manufacturing.htm">Battery Manufact=
+uring</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/pack_=
+construction.htm">Battery Pack Design</a></p></td></tr><tr><td><p><a href=
+=3D"https://www.mpoweruk.com/performance.htm">Battery Performance Character=
+istics</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/dema=
+nd.htm">Battery Power Demand Management</a></p></td></tr><tr><td><p><a href=
+=3D"https://www.mpoweruk.com/protection.htm">Battery Protection Methods</a>=
+</p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/quotation.htm"=
+>Battery Quotation Request</a></p></td></tr><tr><td><p><a href=3D"https://w=
+ww.mpoweruk.com/reliability.htm">Battery Relability</a></p></td></tr><tr><t=
+d><p><a href=3D"https://www.mpoweruk.com/safety.htm">Battery Safety</a></p>=
+</td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/standards.htm">Bat=
+tery Standards</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.=
+com/storage.htm">Battery Storage</a></p></td></tr><tr><td><p><a href=3D"htt=
+ps://www.mpoweruk.com/testing.htm">Battery Testing</a></p></td></tr><tr><td=
+><p><a href=3D"https://www.mpoweruk.com/battery_types.htm">Battery Types</a=
+></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/beginners.htm=
+">Beginners Page </a></p></td></tr><tr><td><p><a href=3D"https://www.mpower=
+uk.com/benefits.htm">Benefits of Custom Battery Packs </a></p></td></tr><tr=
+><td><p><a href=3D"https://www.mpoweruk.com/digital_logic.htm">Boolean Logi=
+c and Digital Circuits</a></p></td></tr><tr><td><p><a href=3D"https://www.m=
+poweruk.com/motorsbrushless.htm">Brushless DC and Reluctance Motors</a></p>=
+</td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/china_batteries.pd=
+f">Buying Batteries in China</a> (PDF)</p></td></tr><tr><td><p><a href=3D"h=
+ttps://www.mpoweruk.com/carbon_footprints.htm">Carbon Footprints</a> (Humou=
+r)</p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/balancing.ht=
+m">Cell Balancing</a></p></td></tr><tr><td><p><a href=3D"https://www.mpower=
+uk.com/chemistries.htm">Cell Chemistries</a></p></td></tr><tr><td><p><a hre=
+f=3D"https://www.mpoweruk.com/cell_construction.htm">Cell Construction</a><=
+/p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/charger_spec.ht=
+m">Charger Specification Checklist</a></p></td></tr><tr><td><p><a href=3D"h=
+ttps://www.mpoweruk.com/chargers.htm">Chargers and Charging</a></p></td></t=
+r><tr><td><p><a href=3D"https://www.mpoweruk.com/charger_quote.htm">Charger=
+ Quotation Request</a></p></td></tr><tr><td><p><a href=3D"https://www.mpowe=
+ruk.com/specifications/common_cases.pdf">Common Battery Case Sizes</a> (PDF=
+) </p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/communicatio=
+ns.htm">Communications Buses</a></p></td></tr><tr><td><p><a href=3D"https:/=
+/www.mpoweruk.com/satellite_communications.htm">Communications Satellites</=
+a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/computer_arc=
+hitecture.htm">Computer Architecture</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/sponsors.htm">Contact Sponsors</a></p></td></tr><=
+tr><td><p><a href=3D"https://www.mpoweruk.com/contactus.htm">Contact Us</a>=
+</p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/contacts.htm">=
+Contacts</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/co=
+nversion_table.htm">Conversion Table</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/motorsdc.htm">DC Motors</a></p></td></tr><tr><td>=
+<p><a href=3D"https://www.mpoweruk.com/amtec.htm">Direct Energy Conversion =
+(AMTEC)</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/ele=
+ments.htm">Discovery of the Elements</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/machines.htm">Electric Machines</a></p></td></tr>=
+<tr><td><p><a href=3D"https://www.mpoweruk.com/infrastructure.htm">Electric=
+ Vehicle Charging Infrastructure</a></p></td></tr><tr><td><p><a href=3D"htt=
+ps://www.mpoweruk.com/electrical_energy.htm">Electrical Energy</a></p></td>=
+</tr><tr><td><p><a href=3D"https://www.mpoweruk.com/electricity_demand.htm"=
+>Electricity Demand</a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/biofuels.htm">Electricity from Biofuels</a></p></td></tr><tr><td><=
+p><a href=3D"https://www.mpoweruk.com/fossil_fuels.htm">Electricity from Fo=
+ssil Fuels</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/=
+chemical_energy.htm">Electrochemical Energy Generation</a></p></td></tr><tr=
+><td><p><a href=3D"https://www.mpoweruk.com/radio.htm">Electromagnetic Radi=
+ation - Radio Waves</a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/search.htm">Electropaedia Technology Search Engine</a></p></td></t=
+r><tr><td><p><a href=3D"https://www.mpoweruk.com/energy_efficiency.htm">Ene=
+rgy Efficiency</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.=
+com/coal.htm">Energy from Coal?</a> (Humour)</p></td></tr><tr><td><p><a hre=
+f=3D"https://www.mpoweruk.com/energy_resources.htm">Energy Resources</a></p=
+></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/heat_engines.htm"=
+>Energy Conversion and Heat Engines</a></p></td></tr><tr><td><p><a href=3D"=
+https://www.mpoweruk.com/harmony.htm">Engineering Harmony</a> (Humour)</p><=
+/td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/enigma.htm">Enigma=
+=E2=80=99s Cryptic Secrets</a></p></td></tr><tr><td><p><a href=3D"https://w=
+ww.mpoweruk.com/feedback.htm">Feedback Form</a></p></td></tr><tr><td><p><a =
+href=3D"https://www.mpoweruk.com/flow.htm">Flow Batteries</a></p></td></tr>=
+<tr><td><p><a href=3D"https://www.mpoweruk.com/freebie_request.htm">Free Re=
+port Request</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.co=
+m/faq.htm">Frequently Asked Questions - FAQ</a></p></td></tr><tr><td><p><a =
+href=3D"https://www.mpoweruk.com/fc_comparison.htm">Fuel Cell Comparison Ch=
+art</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/fuel_ce=
+lls.htm">Fuel Cells</a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/gas_turbines.htm">Gas Turbine Power Generators</a></p></td></tr><t=
+r><td><p><a href=3D"https://www.mpoweruk.com/generators.htm">Generators</a>=
+</p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/geothermal_ene=
+rgy.htm">Geothermal Power Generation</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/glossary.htm">Glossary</a></p></td></tr><tr><td><=
+p><a href=3D"https://www.mpoweruk.com/going_solar.htm">Going Solar - Grid S=
+cale (PV)</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/g=
+raphene.htm">Graphene</a></p></td></tr><tr><td><p><a href=3D"https://www.mp=
+oweruk.com/gratzel.htm">Gr=C3=A4tzel Cell</a></p></td></tr><tr><td><p><a hr=
+ef=3D"https://www.mpoweruk.com/grid_storage.htm">Grid Scale Energy Storage =
+Systems ESS</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com=
+/fame.htm">Hall of Fame</a></p></td></tr><tr><td><p><a href=3D"https://www.=
+mpoweruk.com/high_power.htm">High Power Batteries</a></p></td></tr><tr><td>=
+<p><a href=3D"https://www.mpoweruk.com/high_temp.htm">High Temperature Batt=
+eries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/histo=
+ry.htm">History of Technology</a></p></td></tr><tr><td><p><a href=3D"https:=
+//www.mpoweruk.com/themes.htm">Historical Themes and Characters</a></p></td=
+></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/index.htm">Home Page</=
+a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/homebrew.htm=
+">Homebrew Battery</a></p></td></tr><tr><td><p><a href=3D"https://www.mpowe=
+ruk.com/how.htm">How to Specify Batteries</a></p></td></tr><tr><td><p><a hr=
+ef=3D"https://www.mpoweruk.com/hybrid_power.htm">Hybrid Power Generation Pl=
+ants</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/hydro_=
+power.htm">Hydroelectric Power Generation</a></p></td></tr><tr><td><p><a hr=
+ef=3D"https://www.mpoweruk.com/hydrogen_fuel.htm">Hydrogen Power</a></p></t=
+d></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/instructions.htm">Ins=
+tructions for Using Batteries</a></p></td></tr><tr><td><p><a href=3D"https:=
+//www.mpoweruk.com/leadacid.htm">Lead Acid Batteries</a></p></td></tr><tr><=
+td><p><a href=3D"https://www.mpoweruk.com/leclanche.htm">Leclanch=C3=A9 Cel=
+ls</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/legal.ht=
+m">Legal Statement </a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/liquid_batteries.htm">Liquid Metal Batteries</a></p></td></tr><tr>=
+<td><p><a href=3D"https://www.mpoweruk.com/shipping_regs.htm">Lithium Batte=
+ry Shipping Regulations</a></p></td></tr><tr><td><p><a href=3D"https://www.=
+mpoweruk.com/lithium_failures.htm">Lithium Cell Failures</a></p></td></tr><=
+tr><td><p><a href=3D"https://www.mpoweruk.com/lithiumP.htm">Lithium Primary=
+ Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/=
+lithiumS.htm">Lithium Secondary Batteries</a></p></td></tr><tr><td><p><a hr=
+ef=3D"https://www.mpoweruk.com/low_power.htm">Low Power Batteries</a></p></=
+td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/mhd_generator.htm"><=
+font size=3D"-1">Magneto-Hydro-Dynamic</font> (MHD) Electricity Generation<=
+/a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/motorcontro=
+ls.htm">Motor Controls</a></p></td></tr><tr><td><p><a href=3D"https://www.m=
+poweruk.com/specifications/msds_lithium.pdf">MSDS - Typical Material Safety=
+ Data Sheet</a> (PDF)</p></td></tr><tr><td><p><a href=3D"https://www.mpower=
+uk.com/nicad.htm">Nickel Cadmium (NiCad) Batteries</a></p></td></tr><tr><td=
+><p><a href=3D"https://www.mpoweruk.com/nickel_hydrogen.htm">Nickel Hydroge=
+n Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com=
+/nickel_iron.htm">Nickel Iron (NiFe) Batteries</a></p></td></tr><tr><td><p>=
+<a href=3D"https://www.mpoweruk.com/nimh.htm">Nickel Metal Hydride (NiMH) B=
+atteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/ni=
+ckel_zinc.htm">Nickel Zinc Batteries</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/nuclear_practice.htm">Nuclear Power - <br>The Pra=
+ctice</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/nucle=
+ar_theory.htm">Nuclear Power - <br>The Theory</a></p></td></tr><tr><td><p><=
+a href=3D"https://www.mpoweruk.com/othercells.htm">Other Galvanic Cell Chem=
+istries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/pag=
+erater.htm">Page Quality Rating</a></p></td></tr><tr><td><p><a href=3D"http=
+s://www.mpoweruk.com/standard_model.htm">Particle Physics - <br>The Standar=
+d Model</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/pis=
+ton_engines.htm">Piston Engined Power Generators</a></p></td></tr><tr><td><=
+p><a href=3D"https://www.mpoweruk.com/primary.htm">Primary Batteries</a></p=
+></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/privacy.htm">Priv=
+acy Promise</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com=
+/recycling.htm">Recycling</a></p></td></tr><tr><td><p><a href=3D"https://ww=
+w.mpoweruk.com/redox.htm">Redox Batteries</a></p></td></tr><tr><td><p><a hr=
+ef=3D"https://www.mpoweruk.com/references.htm">Reference Books</a></p></td>=
+</tr><tr><td><p><a href=3D"https://www.mpoweruk.com/reserve.htm">Reserve Ba=
+tteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/roc=
+kets.htm">Rocket Science</a></p></td></tr><tr><td><p><a href=3D"https://www=
+.mpoweruk.com/satellites.htm">Satellite Technologies</a></p></td></tr><tr><=
+td><p><a href=3D"https://www.mpoweruk.com/secondary.htm">Secondary Batterie=
+s</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/semicondu=
+ctors.htm">Semiconductor Primer </a></p></td></tr><tr><td><p><a href=3D"htt=
+ps://www.mpoweruk.com/shock.htm">Shocking Batteries</a></p></td></tr><tr><t=
+d><p><a href=3D"https://www.mpoweruk.com/silver_oxide.htm">Silver Oxide / S=
+ilver Zinc Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpo=
+weruk.com/sitemap.htm">Site Map</a> <font color=3D"#ff0000"><b>More Pages H=
+ere</b></font></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/=
+search.htm">Site Search Engine</a></p></td></tr><tr><td><p><a href=3D"https=
+://www.mpoweruk.com/ss_electricity_generation.htm">Small Scale Electricity =
+Generation</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/=
+Software_Configurable_Battery.htm">Software Configurable Battery</a></p></t=
+d></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/solar.htm">Solar Batt=
+eries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/solar=
+_power.htm">Solar Power Generation</a></p></td></tr><tr><td><p><a href=3D"h=
+ttps://www.mpoweruk.com/motorsspecial.htm">Special Purpose Motors</a></p></=
+td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/sponsors.htm">Sponso=
+rs</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/soc.htm"=
+>State of Charge (SOC) Determination</a></p></td></tr><tr><td><p><a href=3D=
+"https://www.mpoweruk.com/soh.htm">State of Health (SOH) Determination</a><=
+/p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/steam_turbines.=
+htm">Steam Turbine Power Generators</a></p></td></tr><tr><td><p><a href=3D"=
+https://www.mpoweruk.com/stirling_engine.htm">Stirling Engine Power Generat=
+or</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/supercap=
+s.htm">Supercapacitors</a></p></td></tr><tr><td><p><a href=3D"https://www.m=
+poweruk.com/library.htm">Technical Library - White Papers </a></p></td></tr=
+><tr><td><p><a href=3D"https://www.mpoweruk.com/thermalbats.htm">Thermal Ba=
+tteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/the=
+rmal.htm">Thermal Management</a></p></td></tr><tr><td><p><a href=3D"https:/=
+/www.mpoweruk.com/thermoelectricity.htm">Thermoelectricity Generators</a></=
+p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/timekeepers.htm"=
+>Timekeepers</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.co=
+m/particle_timeline.htm">Timeline of Quantum Theory</a></p></td></tr><tr><t=
+d><p><a href=3D"https://www.mpoweruk.com/timeline.htm">Timeline of Technolo=
+gy</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/traction=
+.htm">Traction Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www=
+.mpoweruk.com/specifications/cylindrical_cells.pdf">Typical Cylindrical Cel=
+ls</a> (PDF) </p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/s=
+pecifications/power_cells.pdf">Typical High Power Cells</a> (PDF) </p></td>=
+</tr><tr><td><p><a href=3D"https://www.mpoweruk.com/specifications/prismati=
+c_cells.pdf">Typical Prismatic Cells</a> (PDF) </p></td></tr><tr><td><p><a =
+href=3D"https://www.mpoweruk.com/Sticky_Ends.htm">Unexpected Outcomes &amp;=
+ Sticky Endings</a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk=
+.com/ups.htm">Uninterruptible Power Supplies (UPS)</a></p></td></tr><tr><td=
+><p><a href=3D"https://www.mpoweruk.com/v2g.htm">V2G Energy Transfer</a></p=
+></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/water.htm">Water =
+Activated Batteries</a></p></td></tr><tr><td><p><a href=3D"https://www.mpow=
+eruk.com/failure_modes.htm">Why Batteries Fail</a></p></td></tr><tr><td><p>=
+<a href=3D"https://www.mpoweruk.com/wind_power.htm">Wind Power Generation</=
+a></p></td></tr><tr><td><p><a href=3D"https://www.mpoweruk.com/Brian_Austin=
+.htm">Wireless Wonders</a></p></td></tr><tr><td><p><a href=3D"https://www.m=
+poweruk.com/zebra.htm">Zebra Batteries</a></p></td></tr><tr><td><p><a href=
+=3D"https://www.mpoweruk.com/zinc_air.htm">Zinc Air Batteries</a></p></td><=
+/tr></tbody></table></td></tr>
+                    <tr>
+                      <td><p><img src=3D"https://www.mpoweruk.com/images/sp=
+acer.gif" alt=3D"Spacer" width=3D"20" height=3D"10"></p></td>
+                    </tr>
+                    <tr>
+                      <td><img src=3D"https://www.mpoweruk.com/images/DGree=
+nCap3.gif" alt=3D"Green Cap" width=3D"162" height=3D"10"></td>
+                    </tr>
+                    <tr>
+                      <td width=3D"162" bgcolor=3D"#89d089"><div align=3D"c=
+enter">
+                          <b><font face=3D"Arial" size=3D"3" color=3D"#FFFF=
+FF">Send <a href=3D"mailto:?SUBJECT=3DInteresting%20web%20page%3A%3C%3C%20S=
+imple%20Missile%20Ballistics%20%3E%3E&amp;BODY=3DYou%20can%20find%20the%20p=
+age%20at%3A%20https%3A//www.mpoweruk.com/ballistics.htm%20in%20the%20Electr=
+opaedia%20Energy%20and%20Battery%20Technology%20Knowledge%20Base.">this pag=
+e</a><br> to a friend</font></b>
+                        </div></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor=3D"#89d089"><p align=3D"center"><font fac=
+e=3D"Arial" color=3D"#FFFFFF">Woodbank does not monitor or record these ema=
+ils</font></p></td>
+                    </tr>
+                    <tr>
+                      <td height=3D"5"><img src=3D"https://www.mpoweruk.com=
+/images/DGreenCapBot3.gif" alt=3D"Green Cap" width=3D"162" height=3D"10"></=
+td>
+                    </tr>
+                    <tr>
+                      <td><img src=3D"https://www.mpoweruk.com/images/space=
+r.gif" alt=3D"Spacer" width=3D"20" height=3D"10"></td>
+                    </tr>
+                    <tr>
+                      <td><img src=3D"https://www.mpoweruk.com/images/DGree=
+nCap3.gif" alt=3D"Green Cap" width=3D"162" height=3D"10"></td>
+                    </tr>
+                    <tr>
+                      <td width=3D"162" bgcolor=3D"#89d089" align=3D"left">=
+<!-- InstanceBeginEditable name=3D"pagerater" -->
+                        <!-- insert add text here -->
+                        <p align=3D"center"><font face=3D"Arial" color=3D"#=
+FFFFFF">Do You Agree?</font></p><p align=3D"center"><font face=3D"Arial" co=
+lor=3D"#FFFFFF">Is The Information Correct?</font></p><p align=3D"center"><=
+font face=3D"Arial" color=3D"#FFFFFF">Can We Make It Better?</font></p><p a=
+lign=3D"center"><a href=3D"https://www.mpoweruk.com/pagerater.htm">Rate Thi=
+s Page</a></p><p align=3D"center"><font face=3D"Arial" color=3D"#FFFFFF"><b=
+>Or The Site</b></font></p>
+                        <!-- InstanceEndEditable -->
+                        <!-- end less adstuff here -->
+                        <!-- <p align=3D"center"><a href=3D"../pagerater.ht=
+m"><b>Rate This Page</b></a></p></td> -->
+                    </td>
+					</tr>
+                    <tr>
+                      <td height=3D"5"><img src=3D"https://www.mpoweruk.com=
+/images/DGreenCapBot3.gif" alt=3D"Green Cap" width=3D"162" height=3D"10"></=
+td>
+                    </tr>
+                    <tr>
+                      <td width=3D"162" valign=3D"top"><img src=3D"https://=
+www.mpoweruk.com/images/spacer.gif" alt=3D"Spacer" width=3D"160" height=3D"=
+20"></td>
+                    </tr>
+                    <!-- Insert more stuff here -->
+                   =20
+                    <!-- InstanceBeginEditable name=3D"more adstuff" -->
+                    <!-- insert add text here -->
+                    <!-- InstanceEndEditable -->
+                    <!-- end more adstuff here -->
+                    <tr>
+                      <td valign=3D"top"><img src=3D"https://www.mpoweruk.c=
+om/images/TopCap3.gif" width=3D"162" height=3D"10" alt=3D"End Cap"></td>
+                    </tr>
+                    <tr>
+                      <td class=3D"parahead2"><b>More Sponsors</b></td>
+                    </tr>
+                    <tr>
+                      <td class=3D"lcolumnborder"><b>
+                       =20
+                       =20
+                        </b></td>
+                    </tr>
+                    <tr>
+                      <td valign=3D"top" class=3D"parahead2">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><img src=3D"https://www.mpoweruk.com/images/Botto=
+mCap3.gif" width=3D"162" height=3D"10" alt=3D"End Cap"></td>
+                    </tr>
+                    <!-- Insert stuff here -->
+                    <!-- InstanceBeginEditable name=3D"less adstuff" -->
+                    <!-- insert add text here -->
+                    <!-- InstanceEndEditable -->
+                    <!-- end less adstuff here -->
+                  </tbody></table></td>
+                <td width=3D"83%" valign=3D"top"><p>&nbsp;</p>
+                  <!-- InstanceBeginEditable name=3D"pagecontent" -->
+                  <!-- insert right column text here -->
+                 =20
+                  <p>&nbsp;</p>
+                  <!-- insert right column text here -->
+                  <table width=3D"1000" border=3D"1" bgcolor=3D"#ffffff">
+                    <tbody><tr>
+                      <td colspan=3D"2" align=3D"center"><h1>Simple Missile=
+ Ballistics, Orbits and Aerodynamics</h1></td>
+                    </tr><tr>
+                      <td align=3D"center" width=3D"50%"><h2><b>Trajectory<=
+/b></h2></td>
+                      <td align=3D"center" width=3D"50%"><h2><b>Lift and Dr=
+ag</b></h2></td>
+                    </tr>
+                    <tr>
+                      <td><h3 align=3D"center">&nbsp;</h3>
+                        <h3 align=3D"center">The Artilleryman=E2=80=99s Ran=
+ge Equations</h3>
+                        <p align=3D"center">&nbsp; </p>
+                        <p align=3D"center"><img src=3D"https://www.mpoweru=
+k.com/images/trajectories.gif" width=3D"450" height=3D"281" alt=3D"The Arti=
+lleryman's Range Equation - Parabolic Paths"></p>
+                        <p>The ballistic trajectory of a projectile follows=
+ a parabolic path defined by the following equations:</p>
+                        <p>At any time <b>t</b>, the horizontal and vertica=
+l displacement: <b>x</b> and <b>y</b> from the origin are given by:</p>
+                        <p align=3D"center"><b>x =3D V<sub>0</sub>.t.cos(=
+=CE=98)</b></p>
+                        <p align=3D"center"><b>y =3D V<sub>0</sub>.t.sin(=
+=CE=98) - =C2=BD.g.t<sup>2</sup></b></p>
+                        <p align=3D"left">The total flight time is given by=
+:</p>
+                        <p align=3D"center"><b>t =3D 2.V<sub>0</sub>.sin(=
+=CE=98)/g</b></p>
+                        <p>where</p>
+                        <p><b>t is the time of flight</b></p>
+                        <p><b>g is the acceleration due to the Earth's grav=
+ity at sea level =3D 9.8 m/s<sup>2</sup></b></p>
+                        <p><b>V<sub>0</sub> is the Intial velocity</b></p>
+                        <p><b>=CE=98 is the initial angle of elevation</b><=
+/p>
+                        <p><b>x is the horizontal displacement</b></p>
+                        <p><b>y is the verical displacement</b></p>
+                        <p>&nbsp;</p>
+                        <p><b>Assumptions:</b></p>
+                        <blockquote>
+                          <p>No aerodynamic drag</p>
+                          <p>Constant g force</p>
+                          <p>Launch and target both  on same level</p>
+                        </blockquote>
+                        <p>&nbsp;</p>
+                        <p><b>Range =3D V<sub>0</sub><sup>2</sup>sin2=CE=98=
+/g</b></p>
+                        <p><b>Maximum Range =3D V<sub>0</sub><sup>2</sup>/g=
+</b> occurs when the angle of elevation of the initial launch =3D 45=C2=B0<=
+/p>
+                        <p><b>Maximum Altitude During Trajectory =3D V<sub>=
+0</sub><sup>2</sup>sin<sup>2</sup>=CE=98/2g</b></p>
+                        <p><b>Maximum  Possible Altitude =3D V<sub>0</sub><=
+sup>2</sup>/2g</b> which occurs when the angle of elevation of the  initial=
+ launch =CE=98 =3D 90=C2=B0 (A missile lauched straight up would fall back =
+on the head of the launcher)</p>
+                        <p>&nbsp;</p>
+                        <p>Note that the 70 and 20 degree trajectories have=
+ the same range, as do any pair of launches at complementary angles.</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p></td>
+                      <td><h3 align=3D"center">&nbsp;</h3>
+                        <h3 align=3D"center">Missile Drag with Altitude and=
+ Speed</h3>
+                        <p align=3D"center">&nbsp;</p>
+                        <h3>Drag Force (Newtons) =3D 0.5 x P x V<sup>2</sup=
+> x C<sub>d</sub> x A</h3>
+                        <p>where:</p>
+                        <p><b>P =3D Density of Air (kg/m<sup>3</sup>)</b></=
+p>
+                        <p>The density of air decreases linearly with  alti=
+tude decreasing the drag by the same ratio</p>
+                        <blockquote>
+                          <p>P =E2=89=88 1.29 kg/m<sup>3</sup> @ sea level<=
+/p>
+                          <p>P =E2=89=88 0.232 kg/m<sup>3</sup> @ 12,000 m =
+(7.5 Miles) =3D 18% of the air density at sea level</p>
+                          <p>P =E2=89=88 0.001 kg/m<sup>3</sup> @ 50 kilome=
+ters (The stratopause)</p>
+                        </blockquote>
+                        <p><b>V =3D Velocity (m/s) or Air speed</b></p>
+                        <p>The drag increases as the square of the velocity=
+</p>
+                        <blockquote>
+                          <p>Mach 1 (the speed of sound) =3D 340 m/s @ sea =
+level </p>
+                          <p>Mach  1 =E2=89=88 295 m/s @  12,000 m altitude=
+</p>
+                        </blockquote>
+                        <p><b>C<sub>d</sub> =3D Co-efficient of Drag</b></p=
+>
+                        <p>The drag coefficient is constant for a given mis=
+sile.</p>
+                        <p>It depends mostly on the shape of the missile an=
+d its appendages</p>
+                        <blockquote>
+                          <p>C<sub>d</sub> =E2=89=88 0.6 to  0.95 for rocke=
+ts</p>
+                        </blockquote>
+                        <p><b>A =3D  Sectional Area (m<sup>2</sup>)</b></p>
+                        <p>The effective cross sectional area is constant f=
+or a given missile</p>
+                        <blockquote>
+                          <p>A =E2=89=88 2.76 m<sup>2</sup> for  a 1.65 m d=
+iameter missile. (The V-2)</p>
+                        </blockquote>
+                        <p>See more about the <a href=3D"https://www.mpower=
+uk.com/flight_theory.htm#drag"><b>Components of Drag</b></a>
+                        </p><p>&nbsp;</p>
+                        <h3 align=3D"center">Aerodynamic Lift</h3>
+                        <p>&nbsp;</p>
+                        <p>For a wing or a lifting body at a given <a href=
+=3D"https://www.mpoweruk.com/flight_theory.htm#attack"><b>angle of attack</=
+b></a> the lift force is given by:
+                        </p><h3>Aerodynamic Lift Force (Newtons) =3D 0.5 x =
+P x V<sup>2</sup> x C<sub>L</sub> x A</h3>
+                        <p>where</p>
+                        <p><b>C<sub>L</sub> =3D Co-efficient of Lift</b></p=
+>
+                        <p>The lift coefficient is constant for a given ang=
+le of attack and a given wing/body shape.</p>
+                        <p>It depends on the cross sectional profile of the=
+ wing or lifting body and the angle of attack.</p>
+                        <blockquote>
+                          <p>C<sub>L</sub> =E2=89=88 0 to  1.6 for a light =
+aicraft for angles of attack betwen 0=C2=B0 and 17=C2=B0</p>
+                          <p>C<sub>L</sub> =E2=89=88 0 to  1.3 for a fighte=
+r jet for angles of attack betwen 0=C2=B0 and 30=C2=B0</p>
+                        </blockquote>
+                        <p><b>A =3D The effective area of the wing or lifti=
+ng surface (m<sup>2</sup>)</b></p>
+                        <p>As with drag, the lift increases with the square=
+ of the velocity but decreases with altitude as the density of the air decr=
+eases.</p>
+                        <p>&nbsp;</p>
+                        <h3 align=3D"center">Aerodynamic Efficiency</h3>
+                        <p>&nbsp;</p>
+                        <p>The <b>Lift over Drag Ratio: &nbsp;L / D &nbsp;o=
+r &nbsp;C<sub>L</sub>/ C<sub>d</sub></b> at a given speed and angle of atta=
+ck gives a measure of the <b>Aerodynamic Efficiency</b> of the aerofoil at =
+that speed and angle of attack.</p>
+                        <p>&nbsp;</p>
+                        <p><b>Note:</b></p>
+                        <p>At very low speeds both the drag and the lift ar=
+e also very small.</p>
+                        <p>Because lift and drag forces are both proportion=
+al to the square of the velocity, the lift and drag at Mach 3 will be 9 tim=
+es greater than the lift and drag at Mach 1.</p>
+                        <p>Maximum range can be achieved by flying at very =
+high altitudes where the density of the air is very low and the drag will c=
+onsequently also be very low.</p>
+                        <p><b>But</b></p>
+                        <p>Aerodynamic flight is not possible above the atm=
+osphere in the vacuum of space since the density of the ambient environment=
+ will be zero and so both the lift and drag will also be zero.</p>
+                        <p>&nbsp;</p>
+                        <p>See more about <a href=3D"https://www.mpoweruk.c=
+om/flight_theory.htm"><b>Aerodynamic Lift, Drag, Angle of Attack and the Th=
+eory of Flight</b></a>.</p></td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center"><h2>Artillery Shells and Ballist=
+ic Missiles </h2></td>
+                      <td align=3D"center"><h2>Guided Missiles </h2></td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center"><p>&nbsp;</p>
+                        <h3 align=3D"center">Free Flight</h3>
+                        <p>&nbsp;</p>
+                        <p align=3D"left">The ballistic trajectory of proje=
+ctile is set by its speed and direction at the instant when the initial pro=
+pulsion has stopped. After this point no further control of the projectile'=
+s trajectory is possible. For an artillery shell this point is when the pro=
+jectile emerges from the gun barrel. For rocket powered ballistic missiles =
+the balistic trajectory starts when the rocket motor is turned off.</p>
+                        <p align=3D"left">&nbsp;</p>
+                        <p align=3D"left">As noted above, the maximum range=
+ on level ground occurs when launch angle of elecation of the projectile is=
+ 45=C2=B0. But a rocket begins its ballistic trajectory at high altitude, e=
+quivalent to starting somewhere along the trajectory of a projectile launch=
+ed from the ground. In this case the maximum range will occur at a angle of=
+ elevation offset from 45=C2=B0. Similarly the maximum range of an artiller=
+y shell lauched from an elevated site to a target below will also be offset=
+ from 45=C2=B0</p>
+                        <p align=3D"left">&nbsp;</p>
+                        <p align=3D"left">The actual trajectory followed by=
+ a projectile will be influenced by the prevailing atmospheric wind conditi=
+ons encountered during the flight as well as the density of the air through=
+ which it travels which affects the drag (See opposite top).  For very high=
+ trajectories the affect of reduced gravity at high altitudes must be also =
+taken into account. (See below)</p>
+                        <p align=3D"left">&nbsp;</p>
+                        <p align=3D"left">&nbsp;</p></td>
+                      <td align=3D"center"><p>&nbsp;</p>
+                        <h3 align=3D"center">Controlled Flight</h3>
+                        <p>&nbsp;</p>
+                        <p align=3D"left">Controlling the direction and spe=
+ed of a projectile such as a cruise missile or a spacecraft in flight requi=
+res the addition of a guidance control system to provide a reference direct=
+ion and a means of keeping it on track. Thus it needs an on board power sou=
+rce and a means of changing the vehicle's speed and direction </p>
+                        <p align=3D"left">&nbsp;</p>
+                        <p align=3D"left">Aerodynamic controls which depend=
+ on the air pressure on control surfaces such as wings, rudders and fins ca=
+n only work in the Earth's atmosphere.  About 99% of the total air mass of =
+the atmosphere can be found in the bottom two layers, the <b>troposphere</b=
+> and The <b>stratosphere</b>. Beyond the Earth's atmosphere there is no ae=
+rodynamic drag (or lift) at all. <a name=3D"stratopause"></a>At the altitud=
+e of the <b>stratopause</b> which is the boundary between the stratosphere =
+and the <b>mesosphere</b>, typically at an altitude 50 to 55 km (160,000 to=
+ 180,000 ft) the  air density and pressure are only 1/1000 of that at sea l=
+evel and insufficent to support practical aerodynamic lift or controls.</p>
+                        <p align=3D"left">Aerodynamic controls are also ine=
+ffective at very low vehicle speeds.</p>
+                        <p align=3D"left">&nbsp;</p>
+                        <p align=3D"left">Beyond the Earth's atmosphere, co=
+ntrolling a space vehicle's attitude and speed needs  an active method to d=
+eflect the direction of the thrust of the main rocket or jet exhaust such a=
+s mounting the rocket engine on a steerable gimbals or using rudders within=
+ the exhaust stream,  Alternatively, a series of small auxilliary jet thrus=
+ters could be used to alter the attitude of the missile.</p></td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center"><h2>Gravity</h2></td>
+                      <td><h2 align=3D"center"><a name=3D"escape"></a>Enter=
+ing Space</h2></td>
+                    </tr>
+                    <tr>
+                      <td><h3 align=3D"center">Gravitational Force at Diffe=
+rent Altitudes</h3>
+                        <p>&nbsp;</p>
+                        <p><b>The Inverse Square Law</b></p>
+                        <p>The gravitational force between 2  bodies is pro=
+portional to their masses and inversely proportional to the  distance betwe=
+en their centres.</p>
+                        <p>Thus the gravitational force =E2=80=9CF=E2=80=9D=
+ between two bodies is given by:</p>
+                        <p align=3D"center">&nbsp;<b>F =3D mg =3D <u>GMm</u=
+></b></p>
+                        <p align=3D"center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<b>d<sup>2</sup></b></p>
+                        <p>where</p>
+                        <p><b>G =3D The gravitational constant =3D 6.67 x 1=
+0<sup>-11</sup> m<sup>3</sup>/kg. s<sup>2</sup></b></p>
+                        <p><b>M =3D  Mass of body 1</b></p>
+                        <p><b>m =3D  Mass of body 2</b></p>
+                        <p><b>d =3D  Distance between the centres of the 2 =
+bodies</b></p>
+                        <p>&nbsp;</p>
+                        <p>In the case of the Earth's gravitational pull</p=
+>
+                        <p><b>M is the mass of the Earth =3D 5.976x10<sup>2=
+4</sup> kg</b></p>
+                        <p><b>R is the radius of the Earth =3D 6380 kms</b>=
+ (at the equator)</p>
+                        <p><b>g is the acceleration due to the Earth's grav=
+ity at sea level =3D 9.8 m/s<sup>2</sup></b></p>
+                        <p>The radius of the second body is negligibly smal=
+l compared with the  radius of the Earth</p>
+                        <p>Then the acceleration due to gravity at sea leve=
+l is  given by:</p>
+                        <p align=3D"center"><b>g =3D  GM/R<sup>2</sup></b><=
+/p>
+                        <p>The acceleration due to gravity <b>g<sub>a</sub>=
+</b> at any height <b>"h"</b> above the surface of the Earth is  given by:<=
+/p>
+                        <p align=3D"center"><b>g<sub>a</sub> =3D  GM/(R+h)<=
+sup>2</sup></b></p>
+                        <p>So that&nbsp;</p>
+                        <p align=3D"center"><b>g<sub>a</sub> /g=3D [R/(R+h)=
+]<sup>2</sup></b></p>
+                        <p><a name=3D"karman" id=3D"karman2"></a>Thus at an=
+ altitude of 100 kms (62  miles) above sea level,  known as the <b>K=C3=A1r=
+m=C3=A1n line,</b> which is commonly used to define the boundary between th=
+e Earth's atmosphere and outer space, the acceleration due to gravity is gi=
+ven by;</p>
+                        <p>g<sub>a</sub>=3D g(6380/6480)<sup>2</sup> =3D  9=
+6.94% of g at sea level.</p>
+                        <p>and the force of gravity is 3.06% less than grav=
+itational force at sea level.</p>
+                        <p>The effect of this would be to increase slightly=
+ the range of a high altitude projectile.</p>
+                        <p>&nbsp;</p>
+                        <p>Similarly at 100,000 kms above the surface of th=
+e Earth</p>
+                        <p>g<sub>a</sub> =3D  g(6380/106,380)<sup>2</sup> =
+=3D 0.0036g or 0.36% of g on Earth</p>
+                        <p>so that spacecraft at this altitude are still  u=
+nder the weak influence of the Earth=E2=80=99s gravity</p></td>
+                      <td><h3 align=3D"center">&nbsp;</h3>
+                        <h3 align=3D"center">Escape Velocity</h3>
+                        <p>&nbsp;</p>
+                        <p align=3D"left">For a spacecraft to escape from t=
+he Earth's gravity its kinetic energy must be equal to or greater than the =
+potential energy of gravitation.</p>
+                        <p>Thus </p>
+                        <p align=3D"center"><b>=C2=BDm V<sub>e</sub><sup>2<=
+/sup> =3D Fd =3D GMmd/d<sup>2</sup></b></p>
+                        <p>so that</p>
+                        <p align=3D"center"><b>V<sub>e</sub>=3D =E2=88=9A2G=
+M/d</b></p>
+                        <p>where</p>
+                        <p><b>F =3D The gravitational force</b></p>
+                        <p><b>V<sub>e</sub> =3D The escape velocity</b></p>
+                        <p><b>d =3D The distance between the centre of the =
+Earth and the spacecraft</b></p>
+                        <p><b>G =3D The gravitational constant =3D 6.67 x 1=
+0<sup>-11</sup></b><b> m<sup>3</sup>/kg. s<sup>2</sup></b></p>
+                        <p><b>M =3D The mass of the Earth =3D 6.976x10<sup>=
+24</sup> kg</b></p>
+                        <p><b>m =3D The mass of the spacecraft</b></p>
+                        <p>&nbsp;</p>
+                        <p> On the surface of the Earth, <b>d</b> =3D 6380 =
+km so that:</p>
+                        <p> The <b>Escape Velocity <b>V<sub>e</sub></b> is =
+about 11.2 kilometers per second (=E2=89=8825,000 miles per hour)</b> which=
+ is approximately 33 times the speed of sound (Mach 33).</p>
+                        <p>&nbsp;</p>
+                        <p>At the <b>K=C3=A1rm=C3=A1n line</b> (100 kilomet=
+ers above sea level) the escape velocity <b>V<sub>e</sub></b> is reduced to=
+ 11.1 kilometers per second</p>
+                        <p>At 10,000&nbsp;kilometers altitude in "space", <=
+b>V<sub>e</sub></b> reduces to  7.0&nbsp;km/s.</p>
+                        <p>and at 100,000 kiliometers <b>V<sub>e</sub></b> =
+reduces to 2.7 km/s</p>
+                        <p>&nbsp;</p>
+                        <h3 align=3D"center">Orbital Velocity</h3>
+                        <p>&nbsp;</p>
+                        <p>For a circular orbit, the centripetal force on t=
+he spacecraft should exactly balance the gravitational force. Thus:</p>
+                        <p align=3D"center"><b>GMm/d<sup>2</sup> =3D mV<sub=
+>o</sub><sup>2</sup>/d</b></p>
+                        <p>Where</p>
+                        <p><b>V<sub>o</sub> =3D The orbital velocity of the=
+ spacecraft</b></p>
+                        <p>So that </p>
+                        <p align=3D"center"><b>V<sub>o</sub> =3D =E2=88=9AG=
+M/d =E2=89=88 17,800 miles per hour</b></p>
+                        <p>and</p>
+                        <p align=3D"center"><b>V<sub>e</sub> =3D</b><b> V<s=
+ub>o</sub></b> <b>=E2=88=9A</b>2 </p>
+                        <p align=3D"center">&nbsp;</p>
+                        <p>See also <a href=3D"https://www.mpoweruk.com/his=
+tory.htm#tsiolkovsky"><b>Tsiolkovsky Rocket Propulsion Theory</b></a></p>
+                        <p>See also <a href=3D"https://www.mpoweruk.com/sat=
+ellites.htm"><b>Satellite Orbits and Technologies</b></a></p></td>
+                    </tr>
+                  </tbody></table>
+                  <p align=3D"left">&nbsp;</p>
+                  <p align=3D"left">See also <b><a href=3D"https://www.mpow=
+eruk.com/rockets.htm">Rocket Propulsion</a></b><a href=3D"https://www.mpowe=
+ruk.com/rockets.htm"></a></p>
+                  <form name=3D"back">
+                    <div align=3D"center">
+                      <p>
+                        <input name=3D"button" type=3D"button" value=3D"Bac=
+k">
+                      </p>
+                    </div>
+                  </form>
+                  <p>&nbsp;</p>
+                  <p align=3D"center">
+                   =20
+                    <!-- Bottom 1 created 16/05/15 -->
+                    <ins class=3D"adsbygoogle" style=3D"display:inline-bloc=
+k;width:728px;height:90px" data-ad-client=3D"ca-pub-4348376635320354" data-=
+ad-slot=3D"7866608753"><iframe id=3D"aswift_0" style=3D"height: 1px !import=
+ant; max-height: 1px !important; max-width: 1px !important; width: 1px !imp=
+ortant;"><iframe id=3D"google_ads_frame0"></iframe></iframe></ins>
+                   =20
+                  </p>
+                  <!-- InstanceEndEditable -->
+                   <p>&nbsp;</p>
+                   <p align=3D"center">
+				 =20
+<ins class=3D"adsbygoogle" style=3D"display:block" data-ad-format=3D"autore=
+laxed" data-ad-client=3D"ca-pub-4348376635320354" data-ad-slot=3D"713977782=
+9"><iframe id=3D"aswift_1" style=3D"height: 1px !important; max-height: 1px=
+ !important; max-width: 1px !important; width: 1px !important;"><iframe id=
+=3D"google_ads_frame1"></iframe></iframe></ins>
+
+</p>
+                  <p>&nbsp;</p>
+                  <p align=3D"center">
+                   =20
+                    <!-- Bottom 1 created 16/05/15 -->
+                    <ins class=3D"adsbygoogle" style=3D"display:inline-bloc=
+k;width:728px;height:90px" data-ad-client=3D"ca-pub-4348376635320354" data-=
+ad-slot=3D"7866608753"><iframe id=3D"aswift_2" style=3D"height: 1px !import=
+ant; max-height: 1px !important; max-width: 1px !important; width: 1px !imp=
+ortant;"><iframe id=3D"google_ads_frame2"></iframe></iframe></ins>
+                   =20
+                  </p>
+                  <p>&nbsp;</p>
+                  <p align=3D"center">
+                   =20
+                    <!-- Bottom 2 created 16/05/15 -->
+                    <ins class=3D"adsbygoogle" style=3D"display:inline-bloc=
+k;width:728px;height:90px" data-ad-client=3D"ca-pub-4348376635320354" data-=
+ad-slot=3D"1820075154"><iframe id=3D"aswift_3" style=3D"height: 1px !import=
+ant; max-height: 1px !important; max-width: 1px !important; width: 1px !imp=
+ortant;"><iframe id=3D"google_ads_frame3"></iframe></iframe></ins>
+                   =20
+                  </p>
+                  <p>&nbsp;</p>
+                  <p align=3D"center">
+                   =20
+                    <!-- Bottom 3 created 16/05/15 -->
+                    <ins class=3D"adsbygoogle" style=3D"display:inline-bloc=
+k;width:728px;height:90px" data-ad-client=3D"ca-pub-4348376635320354" data-=
+ad-slot=3D"6250274751"><iframe id=3D"aswift_4" style=3D"height: 1px !import=
+ant; max-height: 1px !important; max-width: 1px !important; width: 1px !imp=
+ortant;"><iframe id=3D"google_ads_frame4"></iframe></iframe></ins>
+                   =20
+                  </p></td>
+                <!-- end right column text here -->
+                </tr>
+              <tr>
+                <td valign=3D"top" class=3D"leftcolpad">&nbsp;</td>
+              </tr>
+             <tr>
+              =20
+              </tr>
+              </tbody></table>
+                     =20
+           =20
+            <p align=3D"center"><a><img src=3D"https://www.mpoweruk.com/ima=
+ges/printer.gif" width=3D"18" height=3D"16" border=3D"0" align=3D"middle" a=
+lt=3D"Printer image"> Print This Page</a> || <a href=3D"https://www.mpoweru=
+k.com/index.htm">Home</a> || <a href=3D"https://www.mpoweruk.com/faq.htm">F=
+AQ</a> || <a href=3D"https://www.mpoweruk.com/sitemap.htm">Site Map</a> || =
+<a href=3D"https://www.mpoweruk.com/legal.htm">Legal</a> || <a href=3D"http=
+s://www.mpoweruk.com/privacy.htm">Privacy Promise</a> || <a href=3D"https:/=
+/www.mpoweruk.com/contacts.htm">Contacts</a></p></td>
+          <td width=3D"51" bgcolor=3D"#FFFFFF" class=3D"panelright">&nbsp;<=
+/td>
+       =20
+		</tr>
+        <tr>
+          <td valign=3D"top" class=3D"panelbottomleft">&nbsp;</td>
+          <td width=3D"100%" valign=3D"middle" class=3D"panelbottom"><div a=
+lign=3D"center">
+              <p><font color=3D"#009900">Woodbank Communications Ltd, South=
+ Crescent Road, Chester, CH4 7AU, (United Kingdom)<br>
+                Copyright =C2=A9 Woodbank Communications Ltd 2005</font></p=
+>
+            </div></td>
+          <td colspan=3D"2" valign=3D"top"><img src=3D"https://www.mpoweruk=
+.com/images/panel_bottomright.gif" border=3D"0" alt=3D"End cap"></td>
+        </tr>
+      </tbody></table>
+
+
+
+
+
+<div id=3D"goHome" style=3D"position: absolute; left: 1309px; top: 892px;">=
+ <layer id=3D"goHome">
+  <p><a href=3D"https://www.mpoweruk.com/ballistics.htm#top">Top</a></p>
+ =20
+  </layer> </div>
+
+
+
+
+</body><!-- InstanceEnd --></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6000233a-0e5a-4620-b885-fe288be49cf9@mhtml.blink
+
+@charset "utf-8";
+
+.greycrescent4_menu { z-index: 999; border-color: rgb(255, 255, 255); borde=
+r-style: solid; border-width: 0px; background-color: rgb(0, 51, 255); posit=
+ion: absolute; left: 0px; top: 0px; visibility: hidden; }
+
+.greycrescent4_plain, a.greycrescent4_plain:link, a.greycrescent4_plain:vis=
+ited { text-align: left; background-color: rgb(0, 51, 255); color: rgb(255,=
+ 255, 255); text-decoration: none; border-color: rgb(255, 255, 255); border=
+-style: solid; border-width: 0px; padding: 0px; cursor: pointer; display: b=
+lock; font-size: 10pt; font-family: Arial, Helvetica, sans-serif; }
+
+a.greycrescent4_plain:hover, a.greycrescent4_plain:active { background-colo=
+r: rgb(204, 0, 0); color: rgb(255, 255, 255); text-decoration: none; border=
+-color: rgb(255, 255, 255); border-style: solid; border-width: 0px; padding=
+: 0px; cursor: pointer; display: block; font-size: 10pt; font-family: Arial=
+, Helvetica, sans-serif; }
+
+a.greycrescent4_l:link, a.greycrescent4_l:visited { text-align: left; backg=
+round: url("greycrescent4_l.gif") right center no-repeat rgb(0, 51, 255); c=
+olor: rgb(255, 255, 255); text-decoration: none; border-color: rgb(255, 255=
+, 255); border-style: solid; border-width: 0px; padding: 0px; cursor: point=
+er; display: block; font-size: 10pt; font-family: Arial, Helvetica, sans-se=
+rif; }
+
+a.greycrescent4_l:hover, a.greycrescent4_l:active { background: url("greycr=
+escent4_l.gif") right center no-repeat rgb(204, 0, 0); color: rgb(255, 255,=
+ 255); text-decoration: none; border-color: rgb(255, 255, 255); border-styl=
+e: solid; border-width: 0px; padding: 0px; cursor: pointer; display: block;=
+ font-size: 10pt; font-family: Arial, Helvetica, sans-serif; }
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_l.gif
+
+R0lGODlhCQAHAIAAAAAAAP///yH5BAEAAAAALAAAAAAJAAcAAAINDI4XlroN1ksSzsZgAQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.mpoweruk.com/basestyle.css
+
+@charset "utf-8";
+
+.rotate { float: left; position: relative; top: 30px; width: 50px; transfor=
+m: rotate(270deg); }
+
+table { font: 8pt / 20px Arial, Helvetica, sans-serif; }
+
+.tblheader { font-size: 18px; color: rgb(0, 0, 0); margin-top: 0px; margin-=
+bottom: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; =
+}
+
+.boldbodytext { vertical-align: top; font-size: 16px; color: rgb(0, 0, 0); =
+margin-top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bo=
+ld; }
+
+.tbltext { vertical-align: top; font-size: 16px; color: rgb(0, 0, 0); margi=
+n-top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: normal;=
+ }
+
+body { color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); backgroun=
+d-image: url("images/graph_bg.gif"); background-repeat: repeat; }
+
+p { font-size: 16px; color: rgb(0, 0, 0); margin-top: 0px; margin-bottom: 0=
+px; font-family: Arial, Helvetica, sans-serif; font-weight: normal; }
+
+li { font-size: 16px; color: rgb(0, 0, 0); margin-top: 0px; margin-bottom: =
+0px; font-family: Arial, Helvetica, sans-serif; font-weight: normal; }
+
+blockquote { margin-top: 0px; margin-bottom: 0px; margin-left: 25px; }
+
+ol { margin-top: 0px; margin-bottom: 0px; margin-left: 25px; list-style: de=
+cimal; }
+
+ul { color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; margin-le=
+ft: 25px; list-style-image: url("images/bullet.gif"); }
+
+h1 { font-size: 26px; color: rgb(0, 153, 0); margin-top: 0px; margin-bottom=
+: 3px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+.booktitle { font-size: 26px; color: rgb(6, 81, 6); margin-top: 0px; margin=
+-bottom: 3px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;=
+ }
+
+h2 { font-size: 22px; color: rgb(0, 153, 0); margin-top: 0px; margin-bottom=
+: 3px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+h3 { font-size: 18px; color: rgb(0, 0, 0); margin-top: 0px; margin-bottom: =
+1px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+h4 { font-size: 14px; color: rgb(0, 153, 0); margin-top: 0px; margin-bottom=
+: 1px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+h5 { font-size: 16px; color: rgb(0, 153, 0); margin-top: 0px; margin-bottom=
+: 1px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+h6 { font-size: 10px; color: rgb(0, 153, 0); margin-top: 0px; margin-bottom=
+: 3px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+
+.style2 { color: rgb(255, 0, 0); font-weight: bold; }
+
+.style4 { color: rgb(255, 0, 0); font-size: 14px; font-weight: bold; }
+
+.style3 { font-size: 14px; color: rgb(0, 0, 0); }
+
+.style5 { text-decoration: overline; }
+
+.paneltop { background-image: url("images/panel_top.gif"); background-repea=
+t: repeat-x; border-bottom: 1px solid rgb(0, 153, 0); }
+
+.paneltopright { border-right: 1px solid rgb(0, 153, 0); border-bottom: 1px=
+ solid rgb(0, 153, 0); background-image: url("images/panel_top.gif"); backg=
+round-repeat: repeat-x; }
+
+.panelbottom { background-image: url("images/panel_bottom.gif"); background=
+-repeat: repeat-x; }
+
+.panelbottomleft { border-left: 1px solid rgb(0, 153, 0); background-image:=
+ url("images/panel_bottom.gif"); background-repeat: repeat-x; }
+
+.rightcoltext { border-right: 1px solid rgb(0, 153, 0); border-left: 1px so=
+lid rgb(0, 153, 0); padding-right: 45px; padding-left: 19px; }
+
+.sidebar { font-size: 8pt; color: rgb(73, 143, 73); border-right: 1px solid=
+ rgb(0, 153, 0); border-left: 1px solid rgb(0, 153, 0); padding-left: 6px; =
+padding-right: 6px; }
+
+.topborder { padding-top: 3px; border-bottom: 1px solid rgb(0, 153, 0); bac=
+kground-image: url("images/head_bg.gif"); background-repeat: no-repeat; }
+
+.spacer { border-right: 1px solid rgb(0, 153, 0); background-image: url("Pa=
+stel_page2_files/Pastel_page2_spacer.gif"); background-repeat: repeat; }
+
+.spacer2 { border-left: 1px solid rgb(0, 153, 0); background-image: url("Pa=
+stel_page2_files/Pastel_page2_spacer2.gif"); background-repeat: repeat; }
+
+.imagebg { border-right: 1px solid rgb(0, 153, 0); border-top: 1px solid rg=
+b(0, 153, 0); background-image: url("Pastel_page2_files/Pastel_page2_image_=
+bg.gif"); background-repeat: repeat; }
+
+a:link { color: rgb(0, 0, 255); }
+
+a:visited { color: rgb(0, 153, 0); }
+
+a:link:hover { color: rgb(255, 0, 0); }
+
+.divider { border-bottom: 1px solid rgb(0, 153, 0); }
+
+.imagetext { padding-right: 20px; padding-left: 20px; padding-top: 10px; }
+
+.parahead { font-size: 16px; font-weight: bold; color: rgb(0, 153, 0); text=
+-decoration: none; padding-bottom: 3px; }
+
+.panelleft { border-left: 1px solid rgb(0, 153, 0); background-color: rgb(2=
+55, 255, 255); }
+
+.lcolumnborder { border-left: 1px solid rgb(0, 153, 0); border-right: 1px s=
+olid rgb(0, 153, 0); background-color: rgb(255, 255, 255); }
+
+.themepanel { background-color: rgb(235, 245, 251); padding: 0px; }
+
+.bluepanel { background-color: rgb(208, 232, 255); padding: 0px; }
+
+.bluepanel2 { background-color: rgb(153, 204, 204); padding: 0px; }
+
+.yellowpanel { background-color: rgb(255, 255, 153); padding: 0px; }
+
+.bluepaneltop { border-top: 1px solid rgb(0, 51, 153); padding: 0px; height=
+: 7px; }
+
+.bluepanelbottom { border-bottom: 1px solid rgb(0, 51, 153); padding: 0px; =
+height: 7px; }
+
+.bluepanelleft { border-left: 1px solid rgb(0, 51, 153); padding: 0px; }
+
+.bluepanelright { border-right: 1px solid rgb(0, 51, 153); padding: 0px; }
+
+.panelright { border-right: 1px solid rgb(0, 153, 0); background-color: rgb=
+(255, 255, 255); }
+
+.parahead2 { font-family: Arial, Helvetica, sans-serif; font-size: 16px; fo=
+nt-weight: bold; color: rgb(255, 255, 255); padding-top: 1px; padding-botto=
+m: 2px; padding-left: 5px; background-color: rgb(6, 81, 6); }
+
+.parahead3 { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fo=
+nt-weight: bold; color: rgb(0, 0, 0); padding-top: 1px; padding-bottom: 2px=
+; padding-left: 5px; background-color: rgb(137, 208, 137); }
+
+div#glossary p { font-family: Arial, Helvetica, sans-serif; font-size: 14px=
+; font-weight: normal; color: rgb(0, 0, 128); position: relative; left: 2em=
+; }
+
+div#form p { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fo=
+nt-weight: normal; color: rgb(0, 0, 0); }
+
+.panel { background-color: rgb(217, 255, 217); padding: 10px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel1 { background-color: rgb(217, 255, 217); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel2 { background-color: rgb(153, 204, 255); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel3 { background-color: rgb(204, 153, 255); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel4 { background-color: rgb(204, 204, 204); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel5 { background-color: rgb(255, 255, 102); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel6 { background-color: rgb(204, 204, 204); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: =
+rgb(0, 0, 0); }
+
+.panel7 { background-color: rgb(137, 208, 137); padding: 0px; font-family: =
+Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: =
+rgb(255, 255, 255); }
+
+.panelpurple { background-color: rgb(204, 153, 255); padding: 0px; font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; colo=
+r: rgb(128, 18, 178); }
+
+.panelgreen { background-color: rgb(102, 255, 102); padding: 0px; font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color=
+: rgb(0, 111, 0); }
+
+.panelblue { background-color: rgb(0, 0, 255); padding: 0px; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: rgb=
+(255, 255, 255); }
+
+.panelviolet { background-color: rgb(204, 0, 153); padding: 0px; font-famil=
+y: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color:=
+ rgb(255, 255, 255); }
+
+.panelgrey { background-color: rgb(204, 204, 204); padding: 0px; font-famil=
+y: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color:=
+ rgb(96, 96, 96); }
+
+.panelpink { background-color: rgb(255, 204, 153); padding: 0px; font-famil=
+y: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color:=
+ rgb(255, 0, 0); }
+
+.panelwhite { background-color: rgb(255, 255, 255); padding: 0px; font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color=
+: rgb(0, 0, 0); }
+
+.panelBgreen { background-color: rgb(0, 255, 0); padding: 0px; font-family:=
+ Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: r=
+gb(255, 255, 255); }
+
+.panelorange { background-color: rgb(255, 165, 0); padding: 0px; font-famil=
+y: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color:=
+ rgb(255, 255, 255); }
+
+.panelnopad { background-color: rgb(255, 153, 204); font-family: Arial, Hel=
+vetica, sans-serif; font-size: 16px; font-weight: normal; color: rgb(0, 0, =
+0); }
+
+.paneltitle { background-color: rgb(137, 208, 137); padding: 10px; font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; co=
+lor: rgb(0, 0, 0); }
+
+.panelemail { background-color: rgb(217, 255, 217); padding: 2px; font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; col=
+or: rgb(0, 0, 0); }
+
+.lowpanel { background-color: rgb(217, 255, 217); padding-left: 18px; font-=
+family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal;=
+ color: rgb(0, 0, 0); }
+
+.backgroundcolor { background-color: rgb(255, 255, 255); }
+
+.leftcolpad { padding-top: 5px; }
+
+.subscript { vertical-align: sub; font-family: Arial, Helvetica, sans-serif=
+; font-size: 10px; font-weight: normal; }
+
+.nopara { margin-left: -20px; list-style-image: url("images/bullet4.gif"); =
+}
+
+.subpara { list-style-image: url("images/bullet2.gif"); list-style-type: sq=
+uare; }
+
+.subsubpara { list-style-image: url("images/bullet3.gif"); list-style-type:=
+ square; }
+
+.copyright { font-size: 12px; color: rgb(0, 0, 0); }
+
+.source { font-size: 12px; color: rgb(0, 0, 0); }
+
+tabler { float: right; }
+
+tablel { float: left; }
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/graph_bg.gif
+
+R0lGODlhGAAYALIAAP///9Hs0cvqy7DfsAAAAAAAAAAAAAAAACH5BAkAAAQALAAAAAAYABgAAANJ
+GLCrDI7F9mCd9uF9u/YSSH0kMwgoeqbCmrooV47hnNU4rd+7nPNA3wLWYhVZRGFQtLQpn0yok0ms
+GpPR7HT7k3a1X5sVeTUmAAA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/panel_top.gif
+
+R0lGODlhKAAoALMAANXu1eb15s7sztzx3Mboxu347eHz4cvqyyepJ3XIdX7LfjmwOQAAAAAAAAAA
+AAAAACH5BAkAAAwALAAAAAAoACgAAAT/EMlJq714rsS7/2AodgphnmiqrmzrvnAsz69At7Zp5/y5
+60BCryf0AX/IYnKoLDYFy6czytwhodisdsvlCrvgsHhMLpvPAgBYDWWr3+10XE5n1+XueB7Ph/v7
+c24Ag4SFhoeIiYqLjI2Oj5CRkogDAJWXg5iWm5WbnJ8DnZeinwacmKMApqielqihqayhoKeurrO4
+sLq7vL2+v8DBwsPExbAGA8jIyczLx8yhys/O0soG1tfZ2tvc3dwBA+Di4d7l1+Ho4Nvp5NsBBu/v
+8Nfx8Ozi9vL18/zm7tnyvgUYSLCgwYMIEypcyLChw4cQGxYgOLFgRYMXLU7cGIAjx44DKz2CFEky
+5MiTG1OiXFmygMuOKl/KjEkTps2ZLnPq3Mmzp8+fQIMKHUq0aAQAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/panel_bottom.gif
+
+R0lGODlhKABAALMAANXu1ef15+/47/f89/3+/d3x3c/sz+Hz4fP682XBZQAAAAAAAAAAAAAAAAAA
+AAAAACH5BAkAAAoALAAAAAAoAEAAAAT/EBg5Ta00W4rv/lYojmRpnmiqrmzrvip3yq0mS5png/uH
+65ffL0jsCHGAJFKIWU6SzyhSanwqlcYp9Mrter/gsHhMBhyuZ7Q4Xf6yk29zl52On+lc+1wZl+fV
+eHh+gXCFg4Z8aodygmZ3jJCPj4t1kX6WkpiOmpmbmZ+WjHegB6SekaOmkqmlrayunq6yso6kraix
+nLGzpbW8v8DBwsPExcbHAa3JxsnLB87KpdDOzdLWz7zU1tUB3dje3N/i3eDj4tvo5ufR4eTP7vDv
+5PP09O/y9fn6+/z9/v/7BNATCHBgN4ICE5JDOI/gwocQ+zlkGIChxYMVMSpUmBFjx4sd0zNSnCgy
+4UaRH1GeXIkyZUuTJVOyNCmgps2bOCva1Imzp8+fQIMKHUq0qNGjQQcMVWqTadOkPp1KfXrTKVUB
+VqsynYqV6tauYL8qHVu1K9mzZsOmRYt1gFu3ZtHCnTu2btu7b9e2rZt3bly8evm+HUy4sOHDiBMr
+Xsy4sePBBB5Hbjx5QGXLbidrzgyZM+bPlTdHHo2ZtOnSqE+rTq3a9OjXlmETkD279uzYtnHH3n27
+N23bwIMLH068uPHjyJMrX868ufPn0JUnmE69uvXr2LNXjwAAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/head_bg.gif
+
+R0lGODlh+QAoALMAANLt0sfox77lvnrKeoPOg4vRi7bitt7y3pbVlqrdquj26DCsMEu3S2fCZwic
+CAAAACH5BAkAAA8ALAAAAAD5ACgAAAT/8MlJq71WhYRaY0soLuBonmiqrmzrvnAszzSM3bh0dIvj
++70QY0gsGo/IpHLJbDqfxw9D+qlOp9Us1sPter/gxoA7FpvH6LRaLV63xbm4rsD4kcSFhH7P7/v3
+BoB/g4SFhod/gYoGjIuNj5CRko0CBgKXlZmWmZqbmJgBn6KXoQKlp6amoauprAGrrqqmcjcAAz0O
+JAwDvL2+v8DBwsPExcbHyL0EAwTNzgQF0AXT0wgF1gjZ2tvcCBzf3nrhh4sJkpyeorGu7LKstBUK
+CEEMBHqB5vmK+vz7+/z38PnrR/DfQIP5CipEOKnhuUeVIoEaJQpiOlCoSpFqte6Vqlcg/0OKHEky
+ADwJCggA2ZWsZbA2LmPKbPnsGbWbN7Fd68bTm89viO7pm8RpFLuSSEvCUzDAB4OhjhiZk0q16tSr
+j6ZKwlq1XCOtXMF2dbQwqkNLjCJC0sQ27UWKFN+2g9XqIyySdksCSEqSlgGnMwMLHkzYV82a0XBS
+09mzG7jHQYdqXWs0b8i9ATCP1JxZJIA4Cuo8PUu6tOnTqFObjqjWYltMaNGpS0Ub7uySHPny5ez5
+FWfNezHnAOADZuHjyJMHW3YYWjPF1XY23sbh5zhEZl3bPgoyeGfM4H2L727yBoJc5l7L3sT+UnvZ
+RWPLf/3eU333sPN/mv92VPvY+F2UTv9/ldFVV0i36aYged41+N2DDkb4oHm5KGfhhYQtwwtziEmz
+2DU7STeddZAZ4tVDcGlEEnAQfidhcAB8doFKDdimH3442qjjjnARyOOPP/oIJEV3IQjSR7mRt1tn
+TMLoZINPxijllDFmRuWVFyTgAEsbKmOYlxpqWJiYXi6HHJkuMcdMh9CBiM2I2jwWznWD+EOUj6ds
+5uKVfPYZowUBOFDjkIQWauihiCZaW0aWaZZXkgw2OV54VTpppZ+YZupnPCF8qSYzoIYJjJqkhmrq
+p6V2WSqqpraa6qqnxgorqYclBh1jbzYmZ2QBTeaaXJYxqOmwUlZQhycaEZpsoctuZGP/s87WNpGi
+lW20DimsuKMnb0wGS6mULU55KbF+HtCnuQCYi26fFBBXz6zOhNoch/KuaW8zstKrb720ysrvqfDq
+O+uaNjmn2Jsi6koir1CtBaxe4/KpbozrUonuxX+iFAKj2U4E7SfZokLbtYuOXNfJHFvrbMgHTpvy
+tXfZheSKkrIoHovk5pwpxhWvO3G6FAddrATnNRAvvhzWRPC8SDd9r8BP0wq1wFQT/HTUVh/db9LP
+GYwTriNWB9Q4dPpxonYe00zsz2wD3ba6E5DQMsxz102XR3jTrfdR7titbd96z33k4LgV2Vul41k5
+qZ8R67yzlBO/nS7GblcuI3FGM635/+acd+750kt7LjrToT93cMJwkviTib66leC25PJ8QOST167u
+7QdIAMKCvPfu++/ABy/8ZY0rfmXjjic/ZeSz4077827T/oACW45u/fXYZ68959F4mJObcIKzMCHZ
+uQ7ygcRHiSnzzbfv/vvtP6ClAdwmPjzv3IYHcW/3L/ibkgD8H+OUpzyeQS5ozoOfAhe4wAfcYmnd
+655zJihB61Vwe82JINMuuEEM2up7uQrf6somlNYVxWXB6o76JDY5BrrwfQ8QlP38VzMmPYh4N0sf
+zSSVFO/gUH8C/KENaxguCBELeQQU2gENyL4XLlABToTi7ASFwSpa8YpX/ODXUOeY8f8lIiB3ShHE
+KrU+27kPilJsHhoPIMU0tu8vplDeuIwHruNRqXh9mqOm8CiuAdoRiS5CYhJZaDGhQe95szOjE2eX
+Rjeq8YVtVAkHsUjJSm5vks5oE/h6sivWjQVtIOvhCpeowDYq4JSoTKUqV3nKBixgkLCMpSxnKchB
+Us5nCKwc83TpvhaekY2M/KUpWUnMYoKga4kxWNcoqMxkOrOZ0HymraRBzWlE85rSbGY2p5nMZWrw
+Vlz0ierE4UmzxMcoehnWxd5XzHa2cwENmKU850nPemrqdpZrni59uchfAnONp/wnGt1J0FVuyRqa
+TKhCF8rQhjr0oRAFZwi5IbbVYYfmLK7rj+H2dM/ota+gIE2lAwZgz5Ka9KRKrFghEcnSRPbThQMN
+qUxBSsU2IfRDIPre6XLKU5zeFKI/7WlCg7rTot70pxPtokUjUz4CjXFtHmXkTGXqgAKg9KpYLeAB
+gWa5KyXwpcH8qFjFOtWy0rQBIcqGm9K6VoS5lTFtZSuu0vpW6YCPrnPVxl3Vyte9wrWvSVVqibDT
+uve47HC15OUZzRpSBxAgq5CNbBn1uc/l+ZKfkAzrPx8JUMZ6tqDwrCtf8yra0tL1tIA1rWhRq1rS
+spa10+lkIezkMCI1iqMs/KpAP1vQCAAAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/electropaedia_logo2.gif
+
+R0lGODlhwwAfAPcAAP//////zP//mf//Zv//M///AP/M///MzP/Mmf/MZv/MM//MAP+Z//+ZzP+Z
+mf+ZZv+ZM/+ZAP9m//9mzP9mmf9mZv9mM/9mAP8z//8zzP8zmf8zZv8zM/8zAP8A//8AzP8Amf8A
+Zv8AM/8AAMz//8z/zMz/mcz/Zsz/M8z/AMzM/8zMzMzMmczMZszMM8zMAMyZ/8yZzMyZmcyZZsyZ
+M8yZAMxm/8xmzMxmmcxmZsxmM8xmAMwz/8wzzMwzmcwzZswzM8wzAMwA/8wAzMwAmcwAZswAM8wA
+AJn//5n/zJn/mZn/Zpn/M5n/AJnM/5nMzJnMmZnMZpnMM5nMAJmZ/5mZzJmZmZmZZpmZM5mZAJlm
+/5lmzJlmmZlmZplmM5lmAJkz/5kzzJkzmZkzZpkzM5kzAJkA/5kAzJkAmZkAZpkAM5kAAGb//2b/
+zGb/mWb/Zmb/M2b/AGbM/2bMzGbMmWbMZmbMM2bMAGaZ/2aZzGaZmWaZZmaZM2aZAGZm/2ZmzGZm
+mWZmZmZmM2ZmAGYz/2YzzGYzmWYzZmYzM2YzAGYA/2YAzGYAmWYAZmYAM2YAADP//zP/zDP/mTP/
+ZjP/MzP/ADPM/zPMzDPMmTPMZjPMMzPMADOZ/zOZzDOZmTOZZjOZMzOZADNm/zNmzDNmmTNmZjNm
+MzNmADMz/zMzzDMzmTMzZjMzMzMzADMA/zMAzDMAmTMAZjMAMzMAAAD//wD/zAD/mQD/ZgD/MwD/
+AADM/wDMzADMmQDMZgDMMwDMAACZ/wCZzACZmQCZZgCZMwCZAABm/wBmzABmmQBmZgBmMwBmAAAz
+/wAzzAAzmQAzZgAzMwAzAAAA/wAAzAAAmQAAZgAAMwAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANgALAAAAADDAB8A
+AAj/ALEJHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNqfEitI7WNIEOKHEmyoUePG0+ixKbyY8mX
+MGO2FDgTY8uVNUfmjMnTpkqWNy/exPmT5M6eSCfWPCpxKNGTJZkmnWqyqFSOTjvSLKqTK9WvDHNC
+rZj16cquY8GqTXiVbFCDUtsOXDp0K1Svds+yxXtQbl6tCn/STUsw7lu4eLMirAv0bVmXf/lGJlzY
+6WLLfQVbTYx57mOXOx8jdsxY9GS+pisrLpjas+axocuqlt347GfItQfrLv159urTsVvX3Q35tmva
+Ygkn5016tfHjv3N3zu0b9PDNaZ9LZ262+HLK0lkf/wZ++Lb13n+hA96ulTh5rs93bxcPPnx13JPz
+z4/MX/9ryuVh1513AtZnn4CZ1XeUYcoViJt76qVXW4J6QRicbeNFSB1Nc9Gnl4YgVieifftdCBh8
+HY7YH4T9seegfhOqhx+JLd6H2Uw3Xgfbd/f55yBKJjY34HTOcbeeh7/hyBh7B2rnInxQKglgkdlp
+RyWLSHYmpVc6Yojek1WG+d+R5NX4JXAynvehjQ3exVRQQWYoHJdbkokmjWBSKOaOBpYp4lV14kdb
+llMWCqRkPiqIqIorLhpihI5OyOCao1E6KZ5rZYqpppx2KlOknoYqqkV+jWrqqVX1ieqqrFZqZ6uw
+xgpaaqy01morRQEBADs=
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/logo_space.gif
+
+R0lGODlhMAAoALMAANXu1ef1587sztzx3Mboxu347eHz4cvqyyioKHXIdYPNg0W0RQAAAAAAAAAA
+AAAAACH5BAkAAAwALAAAAAAwACgAAAT/EMlJq704y5W6/2AojqRHnGiqrmzrvnAsz3RtowKR6+nu
+nz8ecIgrEm82QW7JYzqb0Kc0Kpw2p1Is1alU6rrdL3gcJpvP6LR6zW673wLAWA5/y+9xJV6fp+P/
+eX2BAH58hYR9gIOLd4CIhoSRiI6NkpaRgo1xl5ydnp+goaKjpKWkBoSooqoAqK6RrKywkrK0nbGc
+uKm7s7ats6qvwb/CxMbHxcW/xsnMwM7Kza+tA9UGA9IG18LWxNit0eDi1wPE5N2o36/lycPa69uu
+8eDY8trg7/n5+Pf69v4AAwocSLCgwYP+AuhT+E4hQ20PBT6MuHCiAYsJG0K8uFFjR4YWWB1yFEly
+pMmSAVB+vJiypcuXMGPKnEmzps2bOAMUSLkT5s6eNYHq5El0KM2eQl8ibSk0KdGfBaJKjTqU6lSd
+UrFihVp1qtevYMOKHUu2rNmzaNOqXcv2bAQAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b1.gif
+
+R0lGODlhjgAVALMAAAA/AACUAABZAAB4ACg9KPf498fRyFxfYo2jkgMQA0JDQkWFzCliozSVNGKl
+YgAAACH5BAkAAA8ALAAAAACOABUAAAT/kJxJq7WJ6KYJ91sIglwZmmT6rR3Kqmn8ut1of3cHKEXv
+/0CgIkAsGo/IpHLJbDqfUKjEZ+hVC1fqjzCIIhGOY8PQYDoQUYchefa6vQRe9lqtY61YwtvY6xYR
+BQ5+SVUCUFV6R317jEsSBpCRBggHCgoHCJKRCoNHnZ1FPQlGgAegRlWjT4igDg2qjY2DcZoGChIL
+CwyWtVwBXX6fRsEBPQCDpX5jCGVEqQGuY2HEzgUJ1A0NXWHL2kUNCGCdma7U5kTUvwE7kggJDAuZ
+kLoE8pBcwMC/+vzqA6L+kgXIgmXAgGdBtPFjZXBfnwZ3fHgD9KMLxB8K/Wnsp++XhEyZ/wgwYHAg
+3iRKuyThM8iypcuXQXwcEADIXQJAYVL9K3AgAYA+LnW6FHVRQYIDBSEaSHC0AJpUGQq+nEp1AC1I
+CBSMhJcr10gF4SYpEFC1rEErknqYEnXsnwEBOrEkIFulLUuGLbEAgOiOrN5UbY1VYWbQp1mqZK2C
+DXdgq+PHB06urEo2ceKz1gAA8FlKQMwCAOIiaOuA5+WD1k7vTMA3sIGfMVn/MDDgtGrbL+OEQ/m4
+N6ZwBARYNlj5pWW/1mob7Ky2goLQqZ0eE1B6rHLUwa97XgrxgGvozo3WVpCFeMvi5ocT181YV++t
+C34jyC5cefH69a+vLl4KtmYAcCEAV/9yehmUCn6ozZUeUdLVJhciAML1GiQDaHagfegheB9ZCSyG
+UlcgdkXSbnNVZuKGtQmnomfJVdZZaWSMId2BPQgIyFIrDjjJjg5st5d0fr12EQd1QIfAAKWllmKK
+Ki6Jn4lxYIJJiFTGI2VwOWappYqirNgfTT+4A91cEckVoYoE+QCbbN4JJxd1s/nEog8ElLjlnSpq
+UAECVXY1ASUHEKDZimcCGOGZKzIl3KFyCgBAHEwZutl2HTJlJ6GWZiqAopsZummJjxql6KI9Raoi
+ojkiemaUe/YJKAVYOopnqovKqqWng6qql61ZHlqrrb7Suqiqjgb7q7HE6nkBn10xhsGRf8X+J620
+xVY7LbW5SgqtmddCm621kkab7bjfjhstuOLK2qEllVzC7qvsuttTt/TWa++9AASK77789utvBpYE
+LPDABN/i78H9+oTwwgzjq0HBEA8caacUV0yxwhj/p/DFmmWs8ccdg+zxyCGXzHHJJKOscsh13uJy
+HDC/LHOdNdRs880456zzzjz37PPPNScQAQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b2.gif
+
+R0lGODlhjgAVALMAAABHAACVAPj6+Cg9KQF3AcvVywMPA1peYJ3FnYyTlkFEQjORMy5oqW2ZbUSL
+2gAAACH5BAkAAA8ALAAAAACOABUAAAT/cJxJq7VmqDUG51v3iZ1XcidpruiqmuhIKibdxiqep/xb
+AgqBcEgsFhWBpHLJbDqf0Kh0Sq1WJYICUVvUcrMKQhJBLpMb1rSaXEAs1PC4xJv1Fu73bB2sNAoR
+YnGCTAtGCIOIUUB4jAkHNAcJjHgDgVkGmJkGAFCBiVFaCplab5+mSRqTBZAOCQwKCqoDAWKXtEmB
+C2gNCA2eAQtkb2ILxW7EwsUBDaVJzIG1Aga5Agm5wp6+SszOAb2BZ7/ht97CSmJzeAkGDAyNDAaT
+lbUFnORiCEYEYl8CgARFCPTLArCAGAINBCzYd0tLgnvTCOQjsi/fwlqA+iEMuKwIrUJE/9AE0iBJ
+0gAGBxgkQJCgVcpIBUzSAljHTsUsAOIJOOBNQANMpAT665BwnU4EALRUCqAl4r59Wy52RIDpgD+J
+0vYVSpA0i4YBlwwkqEYTUxCD+QZgIvjUQKySJ9u1ayV3wMqYAwBA9aM3nygCWwEI2USvLICuhAsa
+2AqV6tPHkoYYFJpYC4C0T6t1VaA3Ied9DRSk1Sv0sr+LmJ6STOBIruvXrFnPU6wpdVMCAAo1EGyk
+3u2ymZHyNp348b6csa7+pjwasOameqE/7Wqk0pfJqhXETvm6eyTZegUXcHoca8StBrJY4Pz70nGc
+WMGOJ61X93SavJ02zXf+eVbzxmlxwf80QEwkAGkErMZad97FNpt74T3FH26BDXbYAAXsNhhuSoHm
+HkD5/FTeXodlNp50ZfnVmX+E5XPAYeK5GB4C9dCIm2mV6OXWd9wx4ICPQMoV2zrh/WEGS+bVp1lC
+BoH04m8gNZCQPwRysQl9uE3Uy1g+LSYEB1r8VEgBugjBFX9FKrSAgLwdgFWNp4GU2GqR+OjAnXji
+6cieeeHmB04T5ubTYQZWs4mFFA4xVj0rjndchARwOcQBhE1p5pVfjMXVbUoquglIQow3TT+ihKfB
+BHvmqapLjhyQV3i1aXLYlbPCCIQotGJy2AIvYgIWV4d5duWNtuZEqa62doAsjLjmBCOmrRc2++yx
+uVKbrAIWtLSqSxW8Wuy34IYbboiHKTUNWNKIq+667LbrbgcXsJYnawO6a2+4RfxEXan39utvvxpg
+K/AE2NL7yMHYHvuvv9pZq0ADai0s8cTgZgDLxRhnrLG3FLsLba0dhyxxBxh/VTIsAQes6yYsO9vy
+yy7HDPPMMtdM880254zzzjqrRcPPJgcNNA0ZlGD00UgnrfTSTDft9NNQR61WBAA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b3.gif
+
+R0lGODlhjgAVALMAAABFAACUACo9Kvr7+gFuAdnh2QMRA1BVWLDBsIevjnp+fi5pq1CeUC6MLkSL
+2gAAACH5BAkAAA8ALAAAAACOABUAAAT/0JxJq7VGiKa53yAXdqT4jWAqpqQ6nmYbu2wM05p2DHzv
+/79DYEgsGo/IpHLJbDqfT8ChUBhUqdZrVlsQFBOIsBiRgJrPDEQBwTi73YIpdU6v173EKnBAePuR
+ej0FRAkDf4dFcXYFCRNxanYCfUNVBpaXloiHDAMIlwqdlAMAmoeKVGoIGgsKDgsakJBek5VDfZMB
+bQ1kDQGTDWBtQw1tbIQIDcS5wn0MwkQIAwIAtAUAnAMHvblh2wHEu8IMYGVFwGUM3rsJDLhEUmJr
+BqzxCAsGYWuqkwSV7sNWfAgrJMhXIT3EgPTjQ6TTrSGcCmzrYwBAoF6BQgUIVGChjwZ9/zI6DBCt
+BwJfKAk8EqODFRgEDhQsODBGEsorddo14HFAgsOdBSztOHkwjgErlkANMMBJQZ9C0x4SKNkpwcNK
++AYosBRNwcZOGkAlSOqw0FgDVRAAMGupULuHKxEoOLCgbt2YdgUoEGOAgF+PP5xy8uTXCoBoFQuP
+KrSVAKeevvwZXtj37600H/1KDvrXcCVqxBLvVPuZwGgAPBIHMJwSVhi6dmPH3htG0l+smCruVECN
+gOc9BgodoIa4t79oGwaMtcw8A0HNS31zhm4xul8GGdUi7ax9T2+/EvbOlU1+plxV3/0xN621N9Iq
+FeYGl+YX8e3oO8Es/a4ZAXPklPmmVv9nQamHjVxHaTedgEcVcEFlfsWhwIQylTcbhbZBB6FlTVGD
+mjXIAUCcWsJR01Rn1mGx4H0ZThWdZNatVuB+lFlyWhW2DYbafiIy4mGEelFolytELuAKKxQmBt0Y
+YgCwm3tBAdVONCRK455y2FhH0HAE9GYiD2wkcEVfVQjWCQc4VldZmY7xEKUVChDkSUTJlCmiXwCE
+RWErDvTpp597KiCJhyL14GR71CB1qCBtWdmlR1j0lSiPj3q4kw+e9KVUAmv50JOaXV4Kpj878FAI
+YUqZqiQ1Eu7556sx7ZlYb7lhIuKsBFiCp1G6dlkRNU5dQkVlqBHmJZ6+amDJnb7Oqqy9krp6yCsA
+NjJAbQZaETttpblKOMGEsPY54QFzbSXiueimq+667IoIlIinZnCYNL+2a++9+M5r7ULT5KuDBeD6
+icAFB/Sb78HtUoUUU2DWi/DD+QbmsL3/EjwuBXFQMDHEEAd5iYjybczxyOmS29Oy+WbgiAUZE2wU
+yTBvLDLMNN/a8b9x5FzwzjpnvGxFQFMrdNBED2100UgfrXTSTC/tdNNQLy1ABjlUbfXVU2Ot9dZc
+d+3112CHLXbVBkQAADs=
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b4.gif
+
+R0lGODlhjgAVALMAAAA/AACVACg9KABYAPj5+AF3AczTzF9jZQQQBJGpmUFCQS5oqTORM2erZ0SL
+2gAAACH5BAkAAA8ALAAAAACOABUAAAT/UJ1Jq7VICcG2/9zWdWE5iqiJkmx6qnCrnrJcgjiTEXzv
+/z9BYEgsGo/IpHLJbDqfT8CBYOBVqb0rFqsoQIuGxheZEDMM42MjkW4jBQrstWqo0+9UYTrBY7iH
+VAUNBH5jg0N8Xn9/cHaOCQcKEgmOdl1pWGx/VAAMDQiKUFUAAZ6gi0WhTY2PGgsJDguSlQYCBV6K
+uQG6QwwEfAQDigzECQmFpcVsipwBDbe9BsdFawaFvgQHpc9EDdK7Qw3KhV7e00ShvLqsdQkIC692
+sQituOD2+OBVCIPaXlo8nhUAIpDTIAZefiDEliWAljWECjAMuGtLwIQ+lt3bmK+AgAOU/6RJOvDK
+mDSSCqTVsXWrpcuXLamA4jGg4i8E9CIGxNlnoAEAg7pUUcCTwEACOBHwAFBgHwA+CAbwEFBUGI8D
+CATwEJStKFOYYFsCUEDJmAJ4aGOhJSstgQJhYcH2Y1qFpdNbv6QiZerrgE+gBN7KFNYAawOqt/Y1
+RVqAD4ebhPMOXsyPCsICAEDFBQvHGCS0oEODNAt3s0srWwxYNaD5r8yYCQAYJPA4dssBNYH1AKXY
+8VzYUlknZqzFmmnOZI2RDM18tLtbwuBKhx6Tip2lAxQXCC77pzBfsWUGHWh7+3YrkKBmZwy1H1zw
+3QEI0862j/To1KcP6KyceXPPAuBmnv95+Ek3FE4APPXLUQEOMJdiDgYWX1DczUfITfIp1htt8G3H
+xwHxWciPAdspeAB+t+lnHhwggZTWArHECE96kQiI243bRXcjDwgwJeBSdEjEo2xURMhacJUpAEAV
+CQzARy1TNTbVegcwoB6TEe712nqVWXMGbfLdaOOYOXbWIowOpKmmmq+02KCYcIo5iDtw1vVDLT0C
+gRN3FK5nRY+6ETDXIL84ZuFuUXGC2z5O+oBVnJCKmVUFsKxpKQZvRipmZmFKmlNWSeHGCVF7yldq
+j7ghgNWeA0iRFKetIghrq6RGlaqtA7A6FlWoagopi5RaqiYkFQTYKZxhJoubsjcyeuyvYMf62mqc
+CULKbLLHRoustssieyMAG1QgAUhrEotBguimK1+17K7rbqtDqiuTuvSq22q999J777To5utuvQD3
+a2+6cIwkwcEtToDwwQIE7DDAkvSoLgNEPWzxxRhnnHEGknTs8ccgS6zxyCSXbPLJ9G4A8sorSyzy
+ywm6HPPMnNIsc80i16zzzTvTbPPPQPeMLsxCS0yVBkjDoXTSTFOFw9NQRy311FRXbfXVViMQAQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b5.gif
+
+R0lGODlhjgAVALMAAACUAAA/AABaAAB3ACo+K/L08sXNxUhOUwQQBGF3ZC5pq5OwnX5/gEeK1jWX
+NQAAACH5BAkAAA8ALAAAAACOABUAAAT/kJyTqGW2VoyJ/2AojmTpOWaqomrbHkUszzRNAHiu73zv
+/8CgcEgkBmA1Q0E5YyoJg6I0t1jsHAYcdsrtTiXOZTPGnB28xZhAp0wAlGvfooCuS8EGZd6wmEwW
+e4FQOFEAhYY5hz6KOjEBOnNnDg4IP452XoyJO3iCBAoMDQoHBIF5N5qHiqqEm4oxlYWRAw4JsnwO
+WjFuWrg5k1i1ub8OhcauyJutywNHgQsIoA17CwoIgHtQUduI3Nzdrd/ejtyzSgMDNFllxeo4NQXb
+DgUL4uDg3vj3UWDYnwegqixowGCUIHQIEypcyLAhvBgHBihBMI8BAgRKAqQrcLFNxwJu//R4mDNo
+ooCGKFMylABoAQYFMGESjEmAQUsCJ1XqTElmSZmIE+cVKNYMgUSOGxHkXCIAlsZ0Bk4uMbqz6soD
+VQwkiMm1KwM+C7QNyKmSLNmEZ5MGQBAggDmkZYaigwX16cYAExE6ihTALMO0CAGjO4uAQJWXXRNj
+rULA7tjBkE/6jfyYMt3BkQTkFVBTRrGMUI1K5XhZAAOQJiFTnlyZcuucEhjILpjY62woknOPlVyZ
+twDej30nrZw5aLy2CQowaMqReV+pBjA2X6oEWnDdwXv7Fq77d+zZMhWIGh9ztsXf3dOjV58b/VhY
+64tzTD4US4HGuwbMMTApBn6k6DHRmP97v+3WHoEItnfdAB6YJ14DEEYY4WwJMIDTehhmqOGG68GH
+Hl8mzSHDeacpJ4CIECllEnrzRMfhizBqKEGFDFQo4Y0E1SgbW78952OPGf4ogJBACnARhmv1tVaP
+pFyk5Fo8HnERj0YqhR4ByllZpJJFovecl10OCWRhNSZAI44QlqmjljESyeGXX4opJ5Bwzrkel3Li
+yRyVcb7ZZZ91DumBH37YJKFLhFJQWFuMNurokE862iikbVH6pKWRViqppoxCKqZbMVjU6aaSejrq
+qZFyJkGihdbI6gRskSrrrLTWamutNREQ6628kloYoauu6oewpBywa6/IJquso8cu2+s4B8UCOwGx
+wrIV667YtnWtttx2m22S4G4LbrjdkmuuuOgy+m2653KrKykugFBYvPTWa++9+LaAQAQAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b6.gif
+
+R0lGODlhjgAVALMAAAKUAgBAAABaAAJ4Aig9KPb39srPy1peYQUVBZS1m0JEQkWFzClio4eIiWer
+ZwAAACH5BAkAAA8ALAAAAACOABUAAAT/kJxJq7VIkaG35l64EWRpnmiqrmzrvmqgFHRt3zcB7Hzv
+/8CgcEgsGo9HCY5mYN6ahQ1y2nMkDAYHdWvdenuEWXNcIJvLZcUXCbWtjbTBeyvD2rGNg0JxuN6x
+UkRyX2UIhgdlQoNrZQFvi4pgCn8JGgwLDQxhfwZSg587i6AAoqShPAkFB45yWAGDVgk/DllaO1pd
+twmycjQBu7amwsNykKOjpxJ3CQgMDX4GCwwIBtAbxdikxabb2d3cDok8AwGv4TYOcqnoA+c0CQM3
+6Ti83N/d+Nz23GFXVyTOFuxK0CDTpGqdBihcyLChw4cOAawrA28hDQKG4sQzYAgBDQEA/2jooVZA
+QcYC8Qow81jgFcSXMB/WuZKJgc1LC3LaJNAASyUBMYMGPdCmQLqQzBSmOtAOY68CCDYiAFoIqIMD
+LBG8SkUAqNCvDsP0THDgptmzz3Z1Fep1QFuIbxUKCIBgXbslDUAWhYrUpcpXQAUIKKQ0StyFh2Ee
+Biq2YNmzkPsUXOs1sNvLleVexrz5MhZtbpeGy1NhA5MGBGhELdDAbwKXclUXpsw5s+XbnDe3bVwQ
+cuSCqGtrHp45t22FTTYIHsA1tYEAc8MpWKp1MNR4r6k+B5oq5VTm14sf1028/PIMwA/kXM/+kjPg
+BKALnk+/vv379RGVcUCrapMEApyDQP84Bggwg2qptSZYKgCmwhFhAnAlH34UVricYGId0Bt7HGKi
+YR5TWShihQOkZgNHIRaFkQBtVBNFPAoKVtRJIaYS4og41hdAGBp+2CF7jk024X1D5qgjAmF0RB8C
+B2BUnQASdEQXdE8KloGSAhgy35RGdgklHxU08KOHFTwJ3ZlzbZkmmmyu6Sab5bw5V5vl0CmnnWim
+eeeeeL5JwgUFsUfQBSvi2eehfCaK6KJvnsnoo3PyCCYfYObRAKV6ZKpVnZx26umnoIYq6qiklmrq
+qXSFsceqrLba6qaoxirrrLTW6ikJe6iqqwa59rqHVsBOGeywwhZL7LHGJovssso2uykZs9A6ixGv
+YVRL7bXVIgnDttx26+233yIQAQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b7.gif
+
+R0lGODlhjgAVALMAAAGUAQBAAABZAAF4ASs+K/r7+trf2lJVWa6/rwUPBS5oqXt+gIerk0SL2lSl
+VAAAACH5BAkAAA8ALAAAAACOABUAAAT/MJ1Jq6XrJML56B/YESE5lqU5nmu6vnAMu6rHiutR7Hzv
++wSAcEgsGo/IpHLJbDqdgYPBUJhap1XqdRp8OhmIoiPsLY+NCEd5DSBIt/C4octGOnYMIqIgqBPv
+R1R9RAUIA35ObnEIE24IcSRLh097U5MAewmIQplGVAmXAAUMAUqhRadJigaPrAQJCgsNChytUwiR
+QpO7qEO8AJNVe3SZY2rAQmMMxwAODpfHVAdEh5++ogilAGB5utTI4NeH48gDUQiP6ASx6KwICgnt
+jyTkA+P3wPj1yAwFBwSFxu3pYWAIFR6GBlCxt62Ag354yAH4xHDAnWx3ejzLV45jxX37/xyhw7WO
+XQMEDBQoODASl72XMGPKnKmwACgqAQ5VSpCg34IBexbw3KMG56F+JDIlyPmSIsxCAYbxrCKAptWr
+tdAtKKlSQYMFXQksGEmg6tWzMLGB8mlPqj2qVRKYpeoUKVCbMp2+hLon4YClaAPbE8moq+HDY8HQ
+Myv4JeO7V3bkzGRPQJUAhUC9NRCgboGkeGPqFXAx58EqjQVvALMA7OHXLBFsZTrAbFXblWvn3r1j
+i7+7ct/ahKo7rueymW5XTv7yDil7LA/qVq58unXcZt20bv369fattW9Tnz5efG3nS5fqMCBg2F4E
+CXZoHmA8NBXkeKn3M3T7fntDAUSV3/911hEoAHUCaLedVwzO4qBK3xGQ04HhVUjhheYdKMAnAYgn
+2UAH1CThfgPo8JmAuECE308Y0lfIMlrI1ZdF8rWIoYYWZlgVB9/J0sCPQALZY1kaFmnkkUfSZ4Bc
+RfYDRiE8aNAhRFVocOBpSCXYm5EBOHBaXEx++QqSZJap4QbbHeBjkEGmKVSRHQoQ55wH0imnhgHw
+VCee6anH05wBcPBnnYKm12GeS8XJ5wQ8yXVoFI3aaSece1Z6II8TZLAmmxmoqWaiZoZapqJHkoon
+maZWquiqqVoq6p2hBuqGBa0FycgFEgao66689urrrnL+KuywvAZL7LHIJsvBBRh0yqxVo8lGK+20
+1FZL7QYVzPoPBdrO+kqi1oYr7rjk9trBtm6ki+66biTqrq7v5hlgvPHKS++8+Mqr77376utvvfwG
+nG+//b4iw8EGI6zwwgw37PDDEAsaAQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/greycrescent4_b8.gif
+
+R0lGODlhjgAVALMAAABAAACUAABZAAB3ACg9KfT19FlmX8LKwwUQBY6xlUFCQkSFzX1/fyliozWQ
+NQAAACH5BAkAAA8ALAAAAACOABUAAAT/kJhJq7WIaOJ299r3cWAnkuSppix6sqsZznSN3uNGKEXv
+/0CgIkAsGo/IpHLJbDqfUKgk2Dv4rFUfYRCNJqwHR3dMLj9316waaCWYl47g4V1IlA/zdxdgwIPx
+CQYKCgZffmAKXFGKAYxGPQYICABWdmRxDI5QPQBPmmQ7hwcJCgQNDAsNg6IHboyKsEWvR4pWkVxc
+PQJEDl9iRXYJwr8JBWG8Xwm/wMK8PQy8o5axRNSz1diNAaF+CaYMhgepCKJbuNjn6drquQUIA+mT
+AVg+jcX0BQFxVQPFP3YD9tX70Q9ItlgI1ylMxw1PqVMLkiVgoOqQOXgYM2rcuLHHu436/4xJMmAs
+gD8CCBgUyIRpkscMugK8JHlggEgEL1Vm4sizZ0YACkYdoNigaIMFSFOpYiCUgACfUDu642llEjwr
+AIox+GgMAKanDAAAgOcxzq1+BABwslkHngCrUePC25GMqNG7RsGNujjgKU+/UNdy9IixajEFY20e
+8LryqQN8BbK6AyxAAGGBbTUCdptxM0+6wgzgHd2gkLC0fTE+9buZderVZKdy7jGgamrDBZz2FYlp
+bBUGPNy1gU12sds+PRK8Vs05NXPXrHcwmG6XdCrqDHSvhv4atmvnKg9Uduxx+G53h1d3/VosEgDL
+7r4+Ncb23agBYtey9r68cvfn0lF3VP9SBCqFHWr+jbeddwuO19dTWCjjjwII7OOAAJUgUExa8x3w
+jjGFGCPAYx7BZwCJW0HCVib3ILDdfwm+2KB/AU5X4I0LHKjgjjz22CMlQlhFkg8JTJJeZV3BVwCG
+VwyHWZGSFXDiDx6+5+OVWCJACAMG2IgjUlxSN8l4Vv4ogJVlVpbmmRJIMuaZAGggCZpjvieJmnPu
+4CYAdSIQySTv8QmonneeqaahiKJ5KKIK7tDlBF7eGCYFTq15qKVYMqrpjopiuSami14pVqak8hjn
+IBaAQ+BQFwAq1qujwirrrLTWauutuOaq6663aiCIIISgOt0Eg6BKiKu8Jqvsssw2i2tRBsVGK+20
+gyDr7LXYZqutBtR2Ky2g4IoVLp+vjjsuueie66q64pbbbrrvrvsuvOjSK6+9cWq5w76l9Mvvvxno
+IPDABBds8MEIJ6zwwgzrgEAEADs=
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/spacer.gif
+
+R0lGODlhFAAKAJEAAAAAAP///////wAAACH5BAUUAAIALAAAAAAUAAoAAAIMlI+py+0Po5y02usK
+ADs=
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/TopCap3.gif
+
+R0lGODlhogAKAMQAAF6OXjt2O6fCp9nk2Q9XDwlTCarEqpCxkPz9/LDIsHiheDh0OPn7+QxVDClq
+KSZoJiBjICxsLBVbFf///wZRBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA
+ogAKAAAFX+AkjkiSAEtBrWzrvnAsz3Rt33i+FgtgIqNgcBDQGY/IpHIZCwyEwQOBSa1ar0jCAapQ
+YL/gcLg7MojP6DTSMGFA1PC4vOVgCOb4/FkA0Pv/VAARgISFOQ8ShoqLMA0hADs=
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/CHEEVCsLogo.gif
+
+R0lGODlhgAAmAPcAAP//////AP8A//8AAAD//wD/AAAA/wAAAPby9fr4+v38/eLe6dfU4tvZ5ezr
+8tTT4f39/q6wy9zd6bq+1u7v9DFChlJhnJigwqCoycPI3OPl7vP0+BYseRowfB8zfik9hDVHij1O
+j0ZWlGFvpGZ1qW17rHSBsK610CI4glprooCNt4iUu5CcwbO71L3E2s7T4xcxfhk0gHmItcjO4NPY
+593h7ff4+xc1gRs5g6Wxzxc6hV92qjhXmGZ+sJSmydXc6hM+ihhAikhpoxlGjyJOlT5ioBlLlCpc
+n0Vwq1d+s26RvxlSmh1YnjRnpgxNmUR5sgxVoRVbox1fpSNkqFSGufn7/f3+//v8/RVjqh5nqihw
+sClvrzp5tQpfqRVorxlqryBsryNwsQ5stBZxtxZtsht1uhxytCF3uCJ7vCt7uQt3vwx3vxJ0uhN7
+wBN5vhV8wRZ6vxd9whZ1uhl/wxp7vxuBxR2CxSB+wSB/viOGyCOCwiWHySyIxzuRyzqNx1Cc0F+n
+1wx4vw96wBF9whN8wRSAxBR/wxR9whaBxRd+whd9wB2HyR2FxyKKyyGFxyOLzCOMzCKIxiSOziSJ
+yiWLzCmQzymNzUCZ0XSy24u/4Z/L57XX7cvj8g+IzBaHyhiMzRqQ0BuGxh2Kyx+Pzx+NzSCT0iGQ
+0CGQzyKU0iKT0SOT0iKNzSKQzCOQ0CORzyOPziKOyiaPyyeT0CeRzzGV0IC+4tfq9d7u9+Hw+er0
++g+P0RSS0hSOzxuY1hyS0SCa1iCZ1SCX1CCV0yGZ1iCRzSKb2CKZ1iKY1SGW0yGV0iGT0CKX0iOY
+0yOW0SKTzySY0iOUzySW0Sud1zmi2Emq3F624nS84/T6/RWX1hma1xud2R2i3R+h3CGj3SGf2iGg
+2iGf2SCc1yKi2yKh2yGd2CGa1SOl3iOk3SOi3CKf2SOd2CSh2iSc1SWc1i+l3B+l3yCm3yKp4iOt
+5COs4yOq4yOo4SSs5COn4COm3ySo4CSm3vr9/v7////9/f/+/v///yH5BAEAAP8ALAAAAACAACYA
+AAj/AAEIHEhQYAsWLmpsKMiwocOHECNKnDjRRo0MFzBQfCjhAwcPH0JYkHFhAg0KVTaqXMly44Ya
+LjCoSBHigwcOMCa0FHglRQwvXqIYCXIDRgcUIESMIHliRg2UO6NKFWjDwQ8XOVaUsFDTA4wbQYxE
+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
+Ai/gAIeZmJ6JmBBAATRwECZgATswcQ4REAA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/BottomCap3.gif
+
+R0lGODlhogAKAMQAAF6OXjt2O6fCp9nk2Q9XDwlTCarEqpCxkPz9/LDIsHiheDh0OPn7+QxVDClq
+KSZoJiBjICxsLBVbFf///wZRBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA
+ogAKAAAFXmBDjWRpnmiqrmzrvnAso9Iz33iu77wbAb2gcEjsAQTFpHLJFDAczKh0GoMwJgaqdss1
+TL4KBXdMHoa/6MmBUG67YYRDej4IvO/4UmAw7yMSCQALBXmFUwULAIAIfSEAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/DGreenCap3.gif
+
+R0lGODlhogAKAPcAAP//////zP//mf//Zv//M///AP/M///MzP/Mmf/MZv/MM//MAP+Z//+ZzP+Z
+mf+ZZv+ZM/+ZAP9m//9mzP9mmf9mZv9mM/9mAP8z//8zzP8zmf8zZv8zM/8zAP8A//8AzP8Amf8A
+Zv8AM/8AAMz//8z/zMz/mcz/Zsz/M8z/AMzM/8zMzMzMmczMZszMM8zMAMyZ/8yZzMyZmcyZZsyZ
+M8yZAMxm/8xmzMxmmcxmZsxmM8xmAMwz/8wzzMwzmcwzZswzM8wzAMwA/8wAzMwAmcwAZswAM8wA
+AJn//5n/zJn/mZn/Zpn/M5n/AJnM/5nMzJnMmZnMZpnMM5nMAJmZ/5mZzJmZmZmZZpmZM5mZAJlm
+/5lmzJlmmZlmZplmM5lmAJkz/5kzzJkzmZkzZpkzM5kzAJkA/5kAzJkAmZkAZpkAM5kAAGb//2b/
+zGb/mWb/Zmb/M2b/AGbM/2bMzGbMmWbMZmbMM2bMAGaZ/2aZzGaZmWaZZmaZM2aZAGZm/2ZmzGZm
+mWZmZmZmM2ZmAGYz/2YzzGYzmWYzZmYzM2YzAGYA/2YAzGYAmWYAZmYAM2YAADP//zP/zDP/mTP/
+ZjP/MzP/ADPM/zPMzDPMmTPMZjPMMzPMADOZ/zOZzDOZmTOZZjOZMzOZADNm/zNmzDNmmTNmZjNm
+MzNmADMz/zMzzDMzmTMzZjMzMzMzADMA/zMAzDMAmTMAZjMAMzMAAAD//wD/zAD/mQD/ZgD/MwD/
+AADM/wDMzADMmQDMZgDMMwDMAACZ/wCZzACZmQCZZgCZMwCZAABm/wBmzABmmQBmZgBmMwBmAAAz
+/wAzzAAzmQAzZgAzMwAzAAAA/wAAzAAAmQAAZgAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAogAKAAAIYwABCBxY
+ok4dKAgTKlzIsKHDhxAjSpxIsaJFhwZLDNy48eDFjyBDihxJ8mEdjgJLlCjJsqXLlyVVboRJs6bN
+mwkHesTJs6dPiicB/BxKtCjClUaTKq1pcKnTp1CjSp1KtarSgAA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/DGreenCapBot3.gif
+
+R0lGODlhogAKAPcAAJnMmWbMZsz/zP//////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////yH5BAEAAAQALAAAAACiAAoA
+AAhiAAEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo0eKAQJ8HEmy5EcBJlOqXOlwwACR
+LGPKVBnA5YCZOHN2tDlAAEqdQIM+9MnTJkyhSJMCqFm0qICQSqPKDCmgaUAAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/trajectories.gif
+
+R0lGODlhwgEZAfcAAAAAAP///2QcJPbb3vPi5TAEDvjs8ObW4B8HF+3m69/O2/bx9QYCBgwDDdPG
+1sS60cvG17SxzeLh6QICEQICCKCgwMbGyvr6/gQIMwMGIdbY5/Dx9gUSSAscYnmAmB84guLl7QQI
+EaGtyY2gxhUxZDJRiXiLrQUYN+Tp8XiYxAQ6fCdpuyBRjEdzqmCJvbvM4AcnTBNjuhpEcj15ujpp
+nig6T3R7g3qBieju9QJfwAJcuCdfmEmDvpOz0wUGB/b4+gdmuxZuvBJNgyBxuy94u6nC2ev0/AJv
+zAJrwwJlvA5quhVjpSlvrFaWzF+i2HWz5XaLndXk8QJrvQ1ZljqOzTRSaXes1Vx9lrXV7cbd7wJ6
+zgd0whZwsByByUpofYy/5JzR9pnJ6avQ6crk9urt7weK2YbL9a3Z9LXg+2JtdBmY3zKm5tPu/d7u
+98nO0Umz6abf/cDh8mPG88TW3pff/Iebox4hIrnv/eP5/sv2/tv5/s/b3YCPkfT9/uv9/ra+vpaa
+mrq+vvr+/kFCQsrz8uf35vj+9sXKwwYKArS2sr/Dqv7+8pqalpaWkr6+uv7++v774/7405CJaP7y
+v399d3Jwa/r38fzjtfzqyvnZpJuVi+nezerCjvfPmNe9mfDYt9ynZ/TAgeS1fObKqSscDL+GSc6W
+WFQ9JLiRZs2me/Hr5JxgJIFRIKx1PZRsRX5cO9LCsqmim+rm4ntrXGo3DUsoCv3s3p17YDkaBKKK
+epyWkoxEF3E8GeLMvpKEeykRA7WWhP3x6smxpbqyrmIhBruooKObmImDgfXs6f708f75+EwPBQ4D
+AjEEAh4EAwYCAoV6egwLC+vg4L66ulBPT/7+/vr6+vb29vLy8u7u7urq6ubm5uLi4t7e3tra2tbW
+1tLS0s7OzsrKysbGxsLCwr6+vrq6ura2trKysq6urqqqqqampqKiop6enpqampaWlpKSko6OjoqK
+ioaGhoKCgn5+fnp6enZ2dnJycm5ubmhoaF5eXjAwMBMTEwICAv///yH5BAEAAP8ALAAAAADCARkB
+AAj/AAMIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHUq0qNGjSJMqXcq0qdOnUKNKnUq1qtWrWLNq3cq1q9evYMOK
+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
+kiIr0iEDAgA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/printer.gif
+
+R0lGODlhEgAQAMQAAP///2AuLrCXl9fLy4hiYi8vL+zs7Ovl5Wo7O+HY2C4uLsOwsLmjo/Xy8nRI
+SH5VVXBwcM29vZx9fZJwcKaKiq6urq+vr29vb5eXl4eHhwAAAAAAAAAAAAAAAAAAAAAAACwAAAAA
+EgAQAAAFUSAgjmRpAoWSFqyiFid8ovFMm/Kp1POO2zlSsOQbQVqu1OsFEakMEIN0Oo3KUlCIdnu5
+aA0+FnUszYBFLIulwq6s2xhLsUCuFy+s1SvPatpsIQA7
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mpoweruk.com/images/panel_bottomright.gif
+
+R0lGODlhSQBAALMAANbu1ub15u747s7szt3x3fb89uHz4f3+/Uq2SrPgs33KfWK/YpXUlcfox8vq
+ywAAACH5BAkAAA8ALAAAAABJAEAAAAT/cMg2qJ2yYp257yBIbd0YSsuprmzrvhICz3TNynauw7gE
+ZD9VcDUcDIvApPGE7CB+TZ+wE40uXUdlaZGFLr3eaxAsLpfJWenXyFCsyWr0ei6vv99yRgIA7X/5
+fH+CgX1oYId4RnUACwSEYoGDioNhfoRyiWOThAgHgJ+Aipebl4Wfm6Sgp6qWAAgPrLGys7S1tgOv
+trq7vLQDCQqwvQa9gMTFsccKDQ+OznzHxNGg08fQ19TGrNbW2p+dwrvd26rSn9wA5tjp69avzQDP
+6ujn2PTj7Ov19t7EwA/w4gF6xq5aO34FERrMl48egGUACUicKDHhQnPEHGFkJ3HjvIQN/y2mQ1Ag
+IsWTKFOqdFYxo8aCBDamM+CxYIMFAJut3MmT58aXNGsa6JhOQYKcAU4mDTq0acynQ6FKbeq0asyg
+V2dKYzpzJsmcE5OqjGqV6USrHTtWlRazK023ZA3czKkzrNKOS9NSFPtUIl++a5kKNns1plG6YvkS
+SJp4L02/i+1GHirW7ODLmIeCQxp5cePPdv9GBs149OLMqA0wYEC3GeO/iV97Nh2g9OzSuK+mvpwU
+gYDWtV/X9iwbd3Hit4crD2CAeXOazKNDf+78H3DIpLHT3p67++no0p2Hf77AQOsHwdOrX8++vXv2
+zcGvf54A5/n3+PPr35/e93n0/AUo4P9+q/33gAD8ITigegoyWFuD6xHw1X8PVlghhBY2qGF6CmKI
+IXsbHmZgAB0+CGGJJF6YYYosoojgiym+iGJ9BgK0ooot3ghjjCvuyOKPPBqAQAA1HsgjjDKSiOSR
+TC7pZJM7LsBMkTxW6WKPOeZ45ZJZWlekAGCGKeaYZJZp5ploghlAAxN+meabcMZJpitEFgmQnHjm
+aWYACBBgZ056BhqoDH8CKmYBYSJapqJgMiqAo41GOiakYiJwVKF3Sjppood2uqmZjiqKaAF8Tonp
+gYyOKqmoqz4aqaquqspqqmBKaOqpssb6qq6w9qqrq7/mWoArA5xK16gFIPtossvyqmz/ssg+yyy0
+vybQp7F08dqstMJqK2u30CLKwAIlYZtTuOimG6267LbLrAELsGbuse7Wa2+9Alh767wP3Ovvv8kS
+sIAC5fJ7LroHsJswtAun23C7AjBwrcGtFbDwwxYn2zDGGyPMsKLWyktxxRlnnPDFGqd8ssUor/ww
+mwwUPPKxLpdc883hHrByyQWwSfDMBuKss8lEuzy0yhZHjMDPQBvI8tNDR33y1EXrPDQjljZtp9Vc
+d+311ysPoMDSAGj9J9hof23xQ0sXa3ahacd9gGoLLL3v21vL3TUA4y6dwG94Yyu3AA307Xedgc8b
+tQAVtFE3AvH+nTjQkEM+sB5uT/52AQQAOw==
+
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-8DEB2D06ADD5417E6A297CAE83CA37B2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-D5876E16F95AEF097701E371839C97CF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-A74D000BE2D523835A7C632768C00398@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-E3311E2E768ED7CC8FD6C9EB185AA3BF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-709B78D91A0C1E99D25EF6B091082257@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-FEE6A96D5167CA28A82B5EF779319940@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-01823B6A528DA90426F8D484FFAC52C2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-40B1BC935F5226B67C3A0E519A3030A8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-1D8D8B15EC98E5C9F04223EC084D7E5E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV----
+Content-Type: text/html
+Content-ID: <frame-DDD49BB4A470B5CA2FEE3DA71D148FBF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--9O321f0rsYTmD1J1OjQwVW7L6idLpy8DwDDlmr3UEV------
